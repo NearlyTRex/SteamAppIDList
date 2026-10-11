@@ -1,6 +1,6 @@
 name: Generate Output
 
-# Rebuilds the appid lists from Steam daily and commits them when they change.
+# Rebuilds the appid lists from Steam daily and opens a pull request when they change.
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -15,12 +15,14 @@ concurrency:
 jobs:
   update:
     name: Update
-    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@9672c4701131f14fa8e6f7db7e1d0742db0f5236 # v0.2.12
+    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@059c73e39934f58bd5039a2d72b6edf7181f53e1 # v0.2.13
     permissions:
       contents: write
+      pull-requests: write
     with:
       node-version: "24"
       command: npm ci && node steamcmd_appid.js
       paths: steamcmd_appid.json steamcmd_appid.csv steamcmd_appid.xml
       commit-message: "GitHub Actions build: {date}"
+      assignees: NearlyTRex
       timeout-minutes: 30
