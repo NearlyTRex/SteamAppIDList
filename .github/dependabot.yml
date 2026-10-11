@@ -1,20 +1,26 @@
----
 version: 2
-updates:
-  # GitHub Actions, including the pin on NearlyTRex/Workflows
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-    cooldown:
-      default-days: 7
-    assignees: ["NearlyTRex"]
 
-  # steam-user, which the generator logs in to Steam with
-  - package-ecosystem: "npm"
-    directory: "/"
+# Weekly, grouped, and 7 days behind upstream releases so a compromised release
+# has time to be caught before it is proposed here.
+updates:
+  - package-ecosystem: github-actions
+    directories: ["/"]
     schedule:
-      interval: "weekly"
+      interval: weekly
     cooldown:
       default-days: 7
     assignees: ["NearlyTRex"]
+    groups:
+      actions:
+        patterns: ["*"]
+
+  - package-ecosystem: npm
+    directories: ["/"]
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7
+    assignees: ["NearlyTRex"]
+    groups:
+      npm:
+        patterns: ["*"]

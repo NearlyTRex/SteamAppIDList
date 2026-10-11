@@ -1,0 +1,10 @@
+# Prose wraps at 100 columns; tables and code are exempt because wrapping them
+# changes what they show
+MD013:
+  line_length: 100
+  tables: false
+  code_blocks: false
+
+# The centered logo and badge block at the top of the README
+MD033:
+  allowed_elements: [p, a, img, br]
