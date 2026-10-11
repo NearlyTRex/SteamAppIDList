@@ -1,0 +1,20 @@
+---
+version: 2
+updates:
+  # GitHub Actions, including the pin on NearlyTRex/Workflows
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    assignees: ["NearlyTRex"]
+
+  # steam-user, which the generator logs in to Steam with
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    assignees: ["NearlyTRex"]

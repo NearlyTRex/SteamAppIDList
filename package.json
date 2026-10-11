@@ -1,0 +1,15 @@
+{
+  "name": "steamcmd-appid-list",
+  "private": true,
+  "description": "Every Steam appid and its name, as json, csv and xml",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node steamcmd_appid.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "steam-user": "5.3.0"
+  }
+}
