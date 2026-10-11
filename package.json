@@ -11,5 +11,11 @@
   },
   "dependencies": {
     "steam-user": "5.3.0"
+  },
+  "overrides": {
+    "adm-zip": "0.6.1",
+    "steam-appticket": {
+      "protobufjs": "7.6.6"
+    }
   }
 }

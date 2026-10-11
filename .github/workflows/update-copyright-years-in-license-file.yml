@@ -1,0 +1,19 @@
+name: Update copyright year(s) in license file
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 1 1 *" # 03:00 AM on January 1
+
+permissions: {}
+
+jobs:
+  license-year:
+    name: License year
+    uses: NearlyTRex/Workflows/.github/workflows/license-year.yml@45bf3d2ed784d826f7951b407631311bce30d435 # v0.2.14
+    permissions:
+      contents: write
+      pull-requests: write
+    with:
+      path: LICENSE.md
+      assignees: NearlyTRex

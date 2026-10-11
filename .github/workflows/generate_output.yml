@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update:
     name: Update
-    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@059c73e39934f58bd5039a2d72b6edf7181f53e1 # v0.2.13
+    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@45bf3d2ed784d826f7951b407631311bce30d435 # v0.2.14
     permissions:
       contents: write
       pull-requests: write
