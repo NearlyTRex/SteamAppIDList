@@ -500603,6 +500603,10 @@
 			<name>PolyCore Defense</name>
 		</app>
 		<app>
+			<appid>1526940</appid>
+			<name>Trains Together</name>
+		</app>
+		<app>
 			<appid>1527010</appid>
 			<name>Beyond The Pines</name>
 		</app>
@@ -626795,6 +626799,10 @@
 			<name>Dashwalk Dueling Demo</name>
 		</app>
 		<app>
+			<appid>1900590</appid>
+			<name>Blackout</name>
+		</app>
+		<app>
 			<appid>1900600</appid>
 			<name>Rebellion Soundtrack</name>
 		</app>
@@ -651417,6 +651425,10 @@
 		<app>
 			<appid>1975290</appid>
 			<name>Tomorrow for Mar</name>
+		</app>
+		<app>
+			<appid>1975300</appid>
+			<name>War: Weaponary and Resources</name>
 		</app>
 		<app>
 			<appid>1975310</appid>
@@ -711207,6 +711219,10 @@
 			<name>Hljod</name>
 		</app>
 		<app>
+			<appid>2184050</appid>
+			<name>Tempus Deorum</name>
+		</app>
+		<app>
 			<appid>2184060</appid>
 			<name>星躍物語Star Leaping Story Demo</name>
 		</app>
@@ -724619,6 +724635,10 @@
 			<name>Cash Cow DX</name>
 		</app>
 		<app>
+			<appid>2225840</appid>
+			<name>Biffo</name>
+		</app>
+		<app>
 			<appid>2225860</appid>
 			<name>PESTICIDE Demo</name>
 		</app>
@@ -734077,6 +734097,10 @@
 		<app>
 			<appid>2254800</appid>
 			<name>Clockwork Survivors Playtest</name>
+		</app>
+		<app>
+			<appid>2254810</appid>
+			<name>AirAccel</name>
 		</app>
 		<app>
 			<appid>2254830</appid>
@@ -751460,7 +751484,7 @@
 		</app>
 		<app>
 			<appid>2310620</appid>
-			<name>Ballooni's Brutal Bounce</name>
+			<name>Ballooni - Brutal Bounce</name>
 		</app>
 		<app>
 			<appid>2310630</appid>
@@ -777561,6 +777585,10 @@
 		<app>
 			<appid>2392700</appid>
 			<name>World of Tanks — Imperial Aquila Pack</name>
+		</app>
+		<app>
+			<appid>2392710</appid>
+			<name>Tactics: Setting Sun</name>
 		</app>
 		<app>
 			<appid>2392720</appid>
@@ -850357,6 +850385,10 @@
 		<app>
 			<appid>2635290</appid>
 			<name>TaskTwist</name>
+		</app>
+		<app>
+			<appid>2635310</appid>
+			<name>Skele TONS</name>
 		</app>
 		<app>
 			<appid>2635320</appid>
@@ -950927,6 +950959,10 @@
 			<name>Abyssal</name>
 		</app>
 		<app>
+			<appid>2983060</appid>
+			<name>Backroom Brawl</name>
+		</app>
+		<app>
 			<appid>2983070</appid>
 			<name>MouseVentures</name>
 		</app>
@@ -955224,7 +955260,7 @@
 		</app>
 		<app>
 			<appid>2997450</appid>
-			<name>Only Up: SKIBIDI</name>
+			<name>Climbing with Skibidi</name>
 		</app>
 		<app>
 			<appid>2997460</appid>
@@ -959257,6 +959293,10 @@
 		<app>
 			<appid>3010670</appid>
 			<name>Two Doors</name>
+		</app>
+		<app>
+			<appid>3010690</appid>
+			<name>Abyssal Station</name>
 		</app>
 		<app>
 			<appid>3010700</appid>
@@ -1008163,6 +1008203,10 @@
 			<name>CrimSaw</name>
 		</app>
 		<app>
+			<appid>3179030</appid>
+			<name>Total Loss</name>
+		</app>
+		<app>
 			<appid>3179040</appid>
 			<name>Frontier Hunter - DLC : Mother's Trial</name>
 		</app>
@@ -1042699,6 +1042743,10 @@
 			<name>The Lightkeeper Is Gone Demo</name>
 		</app>
 		<app>
+			<appid>3296130</appid>
+			<name>Loot Before Dusk</name>
+		</app>
+		<app>
 			<appid>3296140</appid>
 			<name>Spellshaper Demo</name>
 		</app>
@@ -1052155,6 +1052203,10 @@
 			<name>Magic Puzzle King 2</name>
 		</app>
 		<app>
+			<appid>3330230</appid>
+			<name>AI Learning Simulator</name>
+		</app>
+		<app>
 			<appid>3330250</appid>
 			<name>Ithya: Magic Studies</name>
 		</app>
@@ -1053509,6 +1053561,10 @@
 		<app>
 			<appid>3334990</appid>
 			<name>Relicbound</name>
+		</app>
+		<app>
+			<appid>3335010</appid>
+			<name>Tumbledown</name>
 		</app>
 		<app>
 			<appid>3335020</appid>
@@ -1062887,6 +1062943,10 @@
 			<name>Blob : Theme Pack 01</name>
 		</app>
 		<app>
+			<appid>3366850</appid>
+			<name>Snipers &amp; Airdrops</name>
+		</app>
+		<app>
 			<appid>3366860</appid>
 			<name>POWER CRISIS Demo</name>
 		</app>
@@ -1064236,7 +1064296,7 @@
 		</app>
 		<app>
 			<appid>3371290</appid>
-			<name>Defense Of Fort Burton Demo</name>
+			<name>Lexy Defense Demo</name>
 		</app>
 		<app>
 			<appid>3371300</appid>
@@ -1065288,7 +1065348,7 @@
 		</app>
 		<app>
 			<appid>3374800</appid>
-			<name>PUSS! 【﻿♄】ｏｔｈｅｒｗｏｒｌｄ</name>
+			<name>PUSS! 【﻿♄】 otherworld</name>
 		</app>
 		<app>
 			<appid>3374820</appid>
@@ -1088937,6 +1088997,10 @@
 		<app>
 			<appid>3456880</appid>
 			<name>Pinball Simulator</name>
+		</app>
+		<app>
+			<appid>3456900</appid>
+			<name>Mega Million Fish</name>
 		</app>
 		<app>
 			<appid>3456910</appid>
@@ -1128332,7 +1128396,7 @@
 		</app>
 		<app>
 			<appid>3596550</appid>
-			<name> PUSS! 【﻿♄】ｓｏｕｎｄｔｒａｃｋ</name>
+			<name> PUSS! 【﻿♄】 otherworld soundtrack</name>
 		</app>
 		<app>
 			<appid>3596560</appid>
@@ -1139844,7 +1139908,7 @@
 		</app>
 		<app>
 			<appid>3637810</appid>
-			<name>Crystallcaller</name>
+			<name>Crystalcaller</name>
 		</app>
 		<app>
 			<appid>3637820</appid>
@@ -1149379,6 +1149443,10 @@
 			<name>BlackGate</name>
 		</app>
 		<app>
+			<appid>3670480</appid>
+			<name>Anomaly Manual: Aquarium</name>
+		</app>
+		<app>
 			<appid>3670490</appid>
 			<name>Echoes Of Eclipse</name>
 		</app>
@@ -1155861,6 +1155929,10 @@
 		<app>
 			<appid>3693200</appid>
 			<name>VanillaBeast: Mystery Kink Demo</name>
+		</app>
+		<app>
+			<appid>3693220</appid>
+			<name>Troublemaker 3</name>
 		</app>
 		<app>
 			<appid>3693230</appid>
@@ -1189627,6 +1189699,10 @@
 			<name>Fucked by the Princesses of the Realm</name>
 		</app>
 		<app>
+			<appid>3809190</appid>
+			<name>Departure of Darkness Demo</name>
+		</app>
+		<app>
 			<appid>3809210</appid>
 			<name>Drop Point Demo</name>
 		</app>
@@ -1208919,6 +1208995,10 @@
 			<name>Hunter's Moon: A Sovereign Syndicate Adventure</name>
 		</app>
 		<app>
+			<appid>3877810</appid>
+			<name>Crispy Billiards</name>
+		</app>
+		<app>
 			<appid>3877830</appid>
 			<name>Beachside Cafe Simulator</name>
 		</app>
@@ -1210269,6 +1210349,10 @@
 		<app>
 			<appid>3882160</appid>
 			<name>ハルスベリヤ叙事詩2.5　設定資料集</name>
+		</app>
+		<app>
+			<appid>3882170</appid>
+			<name>Wisp</name>
 		</app>
 		<app>
 			<appid>3882180</appid>
@@ -1221816,7 +1221900,7 @@
 		</app>
 		<app>
 			<appid>3923500</appid>
-			<name>ROOM 413</name>
+			<name>Investigation of Room 413</name>
 		</app>
 		<app>
 			<appid>3923520</appid>
@@ -1230807,6 +1230891,10 @@
 			<name>HiNekst</name>
 		</app>
 		<app>
+			<appid>3954570</appid>
+			<name>Lamplight Yard</name>
+		</app>
+		<app>
 			<appid>3954580</appid>
 			<name>Star Trek: Infection</name>
 		</app>
@@ -1232009,6 +1232097,10 @@
 		<app>
 			<appid>3958660</appid>
 			<name>Rated R</name>
+		</app>
+		<app>
+			<appid>3958670</appid>
+			<name>Deck of Dynasties</name>
 		</app>
 		<app>
 			<appid>3958680</appid>
@@ -1241191,6 +1241283,10 @@
 			<name>Experiment 404</name>
 		</app>
 		<app>
+			<appid>3990450</appid>
+			<name>DomeLand</name>
+		</app>
+		<app>
 			<appid>3990460</appid>
 			<name>Arithmetic Arena Playtest</name>
 		</app>
@@ -1242413,6 +1242509,10 @@
 		<app>
 			<appid>3995010</appid>
 			<name>Sad Virus Runner</name>
+		</app>
+		<app>
+			<appid>3995020</appid>
+			<name>Spartacus Blood Arena Playtest</name>
 		</app>
 		<app>
 			<appid>3995030</appid>
@@ -1246651,6 +1246751,10 @@
 			<name>Trainz 2022 DLC - [TL] Crawfordsville -  Clements</name>
 		</app>
 		<app>
+			<appid>4009790</appid>
+			<name>Rustbound</name>
+		</app>
+		<app>
 			<appid>4009800</appid>
 			<name>Trainz Plus DLC - [TL] Crawfordsville -  Clements</name>
 		</app>
@@ -1249085,6 +1249189,10 @@
 		<app>
 			<appid>4018110</appid>
 			<name>Bad Dog, Good Nights</name>
+		</app>
+		<app>
+			<appid>4018120</appid>
+			<name>Element TD 3</name>
 		</app>
 		<app>
 			<appid>4018140</appid>
@@ -1251620,7 +1251728,7 @@
 		</app>
 		<app>
 			<appid>4027230</appid>
-			<name>Offworlder</name>
+			<name>Cyberborn</name>
 		</app>
 		<app>
 			<appid>4027240</appid>
@@ -1265271,6 +1265379,10 @@
 			<name>Labyrinth Trailblazer Playtest</name>
 		</app>
 		<app>
+			<appid>4074190</appid>
+			<name>TempWorker</name>
+		</app>
+		<app>
 			<appid>4074200</appid>
 			<name>Weasel Wes's Cycling Simulator Demo</name>
 		</app>
@@ -1269229,6 +1269341,10 @@
 		<app>
 			<appid>4087500</appid>
 			<name>The Final Hold</name>
+		</app>
+		<app>
+			<appid>4087510</appid>
+			<name>North Pole Defense</name>
 		</app>
 		<app>
 			<appid>4087530</appid>
@@ -1275113,6 +1275229,10 @@
 		<app>
 			<appid>4108520</appid>
 			<name>Typing Ascension Playtest</name>
+		</app>
+		<app>
+			<appid>4108530</appid>
+			<name>Dwellers of War</name>
 		</app>
 		<app>
 			<appid>4108540</appid>
@@ -1281175,6 +1281295,10 @@
 			<name>Paquerette Down the Bunburrows - Supporter Pack 2</name>
 		</app>
 		<app>
+			<appid>4129970</appid>
+			<name>Late Night Chats</name>
+		</app>
+		<app>
 			<appid>4129980</appid>
 			<name>Gnome Glade</name>
 		</app>
@@ -1281524,7 +1281648,7 @@
 		</app>
 		<app>
 			<appid>4131220</appid>
-			<name>AKIBA LOST - アキバロスト</name>
+			<name>AKIBA LOST</name>
 		</app>
 		<app>
 			<appid>4131230</appid>
@@ -1296135,6 +1296259,10 @@
 			<name>Grey Hack Soundtrack</name>
 		</app>
 		<app>
+			<appid>4183850</appid>
+			<name>Mega Beast!</name>
+		</app>
+		<app>
 			<appid>4183860</appid>
 			<name>BRIGANDINE ABYSS Demo</name>
 		</app>
@@ -1303879,6 +1304007,10 @@
 			<name>極书院演义 Saga of the Imperial Academy</name>
 		</app>
 		<app>
+			<appid>4212270</appid>
+			<name>小盒同学</name>
+		</app>
+		<app>
 			<appid>4212280</appid>
 			<name>UnderDark: Defense</name>
 		</app>
@@ -1309879,6 +1310011,10 @@
 			<name>Family Roadshow: Hidden Adventures Collector's Edition Demo</name>
 		</app>
 		<app>
+			<appid>4232950</appid>
+			<name>Charming Blood: Twelve days</name>
+		</app>
+		<app>
 			<appid>4232960</appid>
 			<name>Death From Above: Unmanned Systems Forces (USF) Supporter Skin Pack</name>
 		</app>
@@ -1312317,6 +1312453,10 @@
 		<app>
 			<appid>4241330</appid>
 			<name>蝶のいる部屋 ｜ The Room with The Butterfly</name>
+		</app>
+		<app>
+			<appid>4241340</appid>
+			<name>Walpurgis</name>
 		</app>
 		<app>
 			<appid>4241350</appid>
@@ -1327287,6 +1327427,10 @@
 			<name>A Thousand Acres</name>
 		</app>
 		<app>
+			<appid>4293670</appid>
+			<name>QuadMerge</name>
+		</app>
+		<app>
 			<appid>4293690</appid>
 			<name>The Late Guest</name>
 		</app>
@@ -1328644,7 +1328788,7 @@
 		</app>
 		<app>
 			<appid>4298230</appid>
-			<name>The Gaming Cafe Playtest</name>
+			<name>The Gaming Cafe (Playtest)</name>
 		</app>
 		<app>
 			<appid>4298240</appid>
@@ -1330624,7 +1330768,7 @@
 		</app>
 		<app>
 			<appid>4305050</appid>
-			<name>Operation Obliteration 2 Demo</name>
+			<name>Obliteration Universe Demo</name>
 		</app>
 		<app>
 			<appid>4305060</appid>
@@ -1332179,6 +1332323,10 @@
 			<name>A Baker's Dungeon</name>
 		</app>
 		<app>
+			<appid>4310380</appid>
+			<name>Underdog’s Comeback: 0DTE Options Game</name>
+		</app>
+		<app>
 			<appid>4310390</appid>
 			<name>Fruit Auto Fighters Playtest</name>
 		</app>
@@ -1332607,6 +1332755,10 @@
 			<name>Ana's Auto Fellatio</name>
 		</app>
 		<app>
+			<appid>4311910</appid>
+			<name>9 Fingers</name>
+		</app>
+		<app>
 			<appid>4311960</appid>
 			<name>Gridle Soundtrack</name>
 		</app>
@@ -1332821,6 +1332973,10 @@
 		<app>
 			<appid>4312670</appid>
 			<name>Marionetes Demo</name>
+		</app>
+		<app>
+			<appid>4312680</appid>
+			<name>GRIFT</name>
 		</app>
 		<app>
 			<appid>4312690</appid>
@@ -1333861,6 +1334017,10 @@
 		<app>
 			<appid>4316360</appid>
 			<name>Idle Harem Dungeon - NSFW Patch</name>
+		</app>
+		<app>
+			<appid>4316370</appid>
+			<name>Woke Busters: The Identity Affirmer</name>
 		</app>
 		<app>
 			<appid>4316380</appid>
@@ -1347081,6 +1347241,10 @@
 		<app>
 			<appid>4364820</appid>
 			<name>Go Home 1986</name>
+		</app>
+		<app>
+			<appid>4364840</appid>
+			<name>Sinesperia Demo</name>
 		</app>
 		<app>
 			<appid>4364850</appid>
@@ -1363343,6 +1363507,10 @@
 			<name>Simulation Requires Supervision</name>
 		</app>
 		<app>
+			<appid>4422370</appid>
+			<name>The Kingsward Playtest</name>
+		</app>
+		<app>
 			<appid>4422380</appid>
 			<name>Rage &amp; Relics Playtest</name>
 		</app>
@@ -1367100,7 +1367268,15 @@
 		</app>
 		<app>
 			<appid>4435490</appid>
-			<name>Call of Duty®: Modern Warfare® 4</name>
+			<name>Call of Duty®: Modern Warfare® 4 - Campaign</name>
+		</app>
+		<app>
+			<appid>4435500</appid>
+			<name>Call of Duty®: Modern Warfare® 4 - Multiplayer</name>
+		</app>
+		<app>
+			<appid>4435510</appid>
+			<name>Call of Duty®: Modern Warfare® 4 - DMZ</name>
 		</app>
 		<app>
 			<appid>4435520</appid>
@@ -1370987,6 +1371163,10 @@
 			<name>Game Game Developer</name>
 		</app>
 		<app>
+			<appid>4449080</appid>
+			<name>Bloodfell</name>
+		</app>
+		<app>
 			<appid>4449090</appid>
 			<name>MetalGods</name>
 		</app>
@@ -1372883,6 +1373063,10 @@
 			<name>Revenger2</name>
 		</app>
 		<app>
+			<appid>4456140</appid>
+			<name>Spy Diner</name>
+		</app>
+		<app>
 			<appid>4456150</appid>
 			<name>Fairy Massage Lia Cosplay</name>
 		</app>
@@ -1374629,6 +1374813,10 @@
 		<app>
 			<appid>4462350</appid>
 			<name>RentPoly Demo</name>
+		</app>
+		<app>
+			<appid>4462360</appid>
+			<name>Aurel Voice</name>
 		</app>
 		<app>
 			<appid>4462370</appid>
@@ -1383765,6 +1383953,10 @@
 		<app>
 			<appid>4498960</appid>
 			<name>Watsonville</name>
+		</app>
+		<app>
+			<appid>4498970</appid>
+			<name>Winterover</name>
 		</app>
 		<app>
 			<appid>4498980</appid>
@@ -1395539,6 +1395731,10 @@
 			<name>Serenity In Surrender</name>
 		</app>
 		<app>
+			<appid>4541530</appid>
+			<name>Seeking The Cure</name>
+		</app>
+		<app>
 			<appid>4541540</appid>
 			<name>CORROSIVA</name>
 		</app>
@@ -1396593,6 +1396789,14 @@
 		<app>
 			<appid>4545200</appid>
 			<name>Broken Crown</name>
+		</app>
+		<app>
+			<appid>4545230</appid>
+			<name>Golem Survival</name>
+		</app>
+		<app>
+			<appid>4545240</appid>
+			<name>Golem Survival Playtest</name>
 		</app>
 		<app>
 			<appid>4545250</appid>
@@ -1401451,6 +1401655,10 @@
 			<name>The Immortal John Triptych: Weird Extra Content Art Gallery DLC Thingy ¯\_(ツ)_/¯</name>
 		</app>
 		<app>
+			<appid>4562480</appid>
+			<name>Peeled Eyes</name>
+		</app>
+		<app>
 			<appid>4562510</appid>
 			<name>Void Foundry Playtest</name>
 		</app>
@@ -1404547,6 +1404755,10 @@
 			<name>Shipolis</name>
 		</app>
 		<app>
+			<appid>4573560</appid>
+			<name>Warrior Cats: Clans of the Forest - The Purrfect Look Pack</name>
+		</app>
+		<app>
 			<appid>4573570</appid>
 			<name>Echoes of Stella</name>
 		</app>
@@ -1405561,6 +1405773,10 @@
 		<app>
 			<appid>4577250</appid>
 			<name>Court Vision</name>
+		</app>
+		<app>
+			<appid>4577260</appid>
+			<name>Employee06</name>
 		</app>
 		<app>
 			<appid>4577280</appid>
@@ -1406953,6 +1407169,10 @@
 		<app>
 			<appid>4582100</appid>
 			<name>CoGaWan</name>
+		</app>
+		<app>
+			<appid>4582120</appid>
+			<name>Starward Iron</name>
 		</app>
 		<app>
 			<appid>4582130</appid>
@@ -1411955,6 +1412175,10 @@
 			<name>Null Orbit</name>
 		</app>
 		<app>
+			<appid>4600120</appid>
+			<name>NO CLEAN START Demo</name>
+		</app>
+		<app>
 			<appid>4600130</appid>
 			<name>Harvest Looper</name>
 		</app>
@@ -1413829,6 +1414053,10 @@
 		<app>
 			<appid>4607020</appid>
 			<name>Call of Duty®: Modern Warfare® 4 - Vault Edition Pack 5</name>
+		</app>
+		<app>
+			<appid>4607070</appid>
+			<name>Call of Duty®: Modern Warfare® 4 - CEA</name>
 		</app>
 		<app>
 			<appid>4607080</appid>
@@ -1416853,6 +1417081,10 @@
 		<app>
 			<appid>4617730</appid>
 			<name>DREADNOUGHT TARTARUS Playtest</name>
+		</app>
+		<app>
+			<appid>4617740</appid>
+			<name>Grimwar Playtest</name>
 		</app>
 		<app>
 			<appid>4617750</appid>
@@ -1420563,6 +1420795,10 @@
 			<name>ONLYFAPPER FEMBOYS</name>
 		</app>
 		<app>
+			<appid>4631810</appid>
+			<name>Delveport</name>
+		</app>
+		<app>
 			<appid>4631820</appid>
 			<name>DualSlide</name>
 		</app>
@@ -1421667,6 +1421903,10 @@
 			<name>云游VR Demo</name>
 		</app>
 		<app>
+			<appid>4635690</appid>
+			<name>天空，草地，我的小鱼</name>
+		</app>
+		<app>
 			<appid>4635710</appid>
 			<name>Continuity 1977 Playtest</name>
 		</app>
@@ -1422605,6 +1422845,10 @@
 		<app>
 			<appid>4639190</appid>
 			<name>梦镜冒险者</name>
+		</app>
+		<app>
+			<appid>4639200</appid>
+			<name>In the Name of the Father</name>
 		</app>
 		<app>
 			<appid>4639210</appid>
@@ -1424743,6 +1424987,10 @@
 			<name>Geppetto's Nightmare</name>
 		</app>
 		<app>
+			<appid>4647070</appid>
+			<name>Cubic Mage</name>
+		</app>
+		<app>
 			<appid>4647080</appid>
 			<name>V8 Player</name>
 		</app>
@@ -1425165,6 +1425413,10 @@
 		<app>
 			<appid>4650510</appid>
 			<name>Fish to Cats Supporter Pack</name>
+		</app>
+		<app>
+			<appid>4650520</appid>
+			<name>营火与远征</name>
 		</app>
 		<app>
 			<appid>4650530</appid>
@@ -1427137,6 +1427389,10 @@
 		<app>
 			<appid>4657480</appid>
 			<name>PUROMA</name>
+		</app>
+		<app>
+			<appid>4657490</appid>
+			<name>6600：The Park Playtest</name>
 		</app>
 		<app>
 			<appid>4657500</appid>
@@ -1432524,7 +1432780,7 @@
 		</app>
 		<app>
 			<appid>4677000</appid>
-			<name>ソーセージレジェンド・アリーナ Demo</name>
+			<name>Sausage Legend Arena Demo</name>
 		</app>
 		<app>
 			<appid>4677020</appid>
@@ -1432960,7 +1433216,7 @@
 		</app>
 		<app>
 			<appid>4678570</appid>
-			<name>Chick'Hen Show</name>
+			<name>Chicken Show</name>
 		</app>
 		<app>
 			<appid>4678580</appid>
@@ -1434147,6 +1434403,10 @@
 			<name>RE:AKTOR Demo</name>
 		</app>
 		<app>
+			<appid>4682170</appid>
+			<name>Abyssal Merge Demo</name>
+		</app>
+		<app>
 			<appid>4682180</appid>
 			<name>Meltdown</name>
 		</app>
@@ -1434532,7 +1434792,7 @@
 		</app>
 		<app>
 			<appid>4683590</appid>
-			<name>Pale Tide</name>
+			<name>Fear Tide</name>
 		</app>
 		<app>
 			<appid>4683600</appid>
@@ -1436716,7 +1436976,7 @@
 		</app>
 		<app>
 			<appid>4691770</appid>
-			<name>Desktopet</name>
+			<name>桌面萌宠（Desktopet）</name>
 		</app>
 		<app>
 			<appid>4691790</appid>
@@ -1440101,6 +1440361,10 @@
 		<app>
 			<appid>4703820</appid>
 			<name>Space.iZ</name>
+		</app>
+		<app>
+			<appid>4703830</appid>
+			<name>Dust till Dawn Playtest</name>
 		</app>
 		<app>
 			<appid>4703840</appid>
@@ -1446191,6 +1446455,10 @@
 			<name>Wizard Balls Demo</name>
 		</app>
 		<app>
+			<appid>4728880</appid>
+			<name>Skatebound Demo</name>
+		</app>
+		<app>
 			<appid>4728900</appid>
 			<name>脉冲武装</name>
 		</app>
@@ -1450891,6 +1451159,10 @@
 			<name>Cry Pic. Demo</name>
 		</app>
 		<app>
+			<appid>4745860</appid>
+			<name>Scaraffo</name>
+		</app>
+		<app>
 			<appid>4745890</appid>
 			<name>LastWatch</name>
 		</app>
@@ -1451461,6 +1451733,10 @@
 		<app>
 			<appid>4747920</appid>
 			<name>Undervalued</name>
+		</app>
+		<app>
+			<appid>4747930</appid>
+			<name>The Witch</name>
 		</app>
 		<app>
 			<appid>4747940</appid>
@@ -1458655,6 +1458931,10 @@
 			<name>The Wild Playtest</name>
 		</app>
 		<app>
+			<appid>4775330</appid>
+			<name>Bach Rediscovered</name>
+		</app>
+		<app>
 			<appid>4775340</appid>
 			<name>The Wackytown Game</name>
 		</app>
@@ -1462213,6 +1462493,10 @@
 		<app>
 			<appid>4787640</appid>
 			<name>Lancelot: The Silver Knight</name>
+		</app>
+		<app>
+			<appid>4787650</appid>
+			<name>Elf World Adventure 13</name>
 		</app>
 		<app>
 			<appid>4787660</appid>
@@ -1471427,6 +1471711,10 @@
 			<name>Tairo: Lost In Time Playtest</name>
 		</app>
 		<app>
+			<appid>4820630</appid>
+			<name>Hecatomb Demo</name>
+		</app>
+		<app>
 			<appid>4820640</appid>
 			<name>8-bitBot Demo</name>
 		</app>
@@ -1474093,6 +1474381,10 @@
 		<app>
 			<appid>4830230</appid>
 			<name>Souten Koihime: Dawn of Sovereignty</name>
+		</app>
+		<app>
+			<appid>4830260</appid>
+			<name>Paper Lanes</name>
 		</app>
 		<app>
 			<appid>4830270</appid>
@@ -1477775,6 +1478067,10 @@
 			<name>Stickplosion Playtest</name>
 		</app>
 		<app>
+			<appid>4843350</appid>
+			<name>Hell Drivers Playtest</name>
+		</app>
+		<app>
 			<appid>4843370</appid>
 			<name>Hentai Milf Resort</name>
 		</app>
@@ -1481125,6 +1481421,10 @@
 		<app>
 			<appid>4855850</appid>
 			<name>Floodline Legion</name>
+		</app>
+		<app>
+			<appid>4855860</appid>
+			<name>Three-Body: Eve of Judgment</name>
 		</app>
 		<app>
 			<appid>4855880</appid>
@@ -1492299,6 +1492599,10 @@
 			<name>Magi Tower Playtest</name>
 		</app>
 		<app>
+			<appid>4899640</appid>
+			<name>Neural Spaceship Sandbox</name>
+		</app>
+		<app>
 			<appid>4899650</appid>
 			<name>Domain Paradox: Growth</name>
 		</app>
@@ -1492576,7 +1492880,7 @@
 		</app>
 		<app>
 			<appid>4900750</appid>
-			<name>Void Swarm</name>
+			<name>Void Plague</name>
 		</app>
 		<app>
 			<appid>4900760</appid>
@@ -1492985,6 +1493289,10 @@
 		<app>
 			<appid>4902270</appid>
 			<name>Puzzles Dog Artbook</name>
+		</app>
+		<app>
+			<appid>4902280</appid>
+			<name>Pack Rush</name>
 		</app>
 		<app>
 			<appid>4902290</appid>
@@ -1496627,6 +1496935,10 @@
 			<name>[HERROR] Gas Station Case - Supporter Pack</name>
 		</app>
 		<app>
+			<appid>4916080</appid>
+			<name>黄金矿工</name>
+		</app>
+		<app>
 			<appid>4916090</appid>
 			<name>Drift of Y</name>
 		</app>
@@ -1497293,6 +1497605,10 @@
 		<app>
 			<appid>4918550</appid>
 			<name>Adam Willis's Roofball Playtest</name>
+		</app>
+		<app>
+			<appid>4918560</appid>
+			<name>Saltwater Bodies Demo</name>
 		</app>
 		<app>
 			<appid>4918580</appid>
@@ -1499551,6 +1499867,10 @@
 			<name>Italian Street Food Simulator Demo</name>
 		</app>
 		<app>
+			<appid>4927380</appid>
+			<name>Math Marsh</name>
+		</app>
+		<app>
 			<appid>4927390</appid>
 			<name>Darning Demo</name>
 		</app>
@@ -1499625,6 +1499945,10 @@
 		<app>
 			<appid>4927770</appid>
 			<name>The Joust Autochess</name>
+		</app>
+		<app>
+			<appid>4927790</appid>
+			<name>Lost Freight</name>
 		</app>
 		<app>
 			<appid>4927810</appid>
@@ -1501155,6 +1501479,10 @@
 			<name>Brothers 4 Once</name>
 		</app>
 		<app>
+			<appid>4933680</appid>
+			<name>光不归谁</name>
+		</app>
+		<app>
 			<appid>4933690</appid>
 			<name>Rescue Team: Phantom Crisis</name>
 		</app>
@@ -1501307,6 +1501635,10 @@
 			<name>Wild Hive Playtest</name>
 		</app>
 		<app>
+			<appid>4934220</appid>
+			<name>Soundtrack for The Bull of Heaven</name>
+		</app>
+		<app>
 			<appid>4934240</appid>
 			<name>Blackjack Training</name>
 		</app>
@@ -1501368,7 +1501700,7 @@
 		</app>
 		<app>
 			<appid>4934440</appid>
-			<name>Rocket Spark</name>
+			<name>Rockblaze</name>
 		</app>
 		<app>
 			<appid>4934450</appid>
@@ -1501397,6 +1501729,10 @@
 		<app>
 			<appid>4934530</appid>
 			<name>Dungeon Nox Exotica</name>
+		</app>
+		<app>
+			<appid>4934550</appid>
+			<name>In Mutable Form - The Making and Philosophy of The Bull of Heaven</name>
 		</app>
 		<app>
 			<appid>4934560</appid>
@@ -1502185,6 +1502521,10 @@
 		<app>
 			<appid>4937480</appid>
 			<name>Mowed Down</name>
+		</app>
+		<app>
+			<appid>4937490</appid>
+			<name>PARALLAXIA</name>
 		</app>
 		<app>
 			<appid>4937510</appid>
@@ -1507223,6 +1507563,10 @@
 			<name>Psychic Conspiracy</name>
 		</app>
 		<app>
+			<appid>4956680</appid>
+			<name>BLOODVILLE (Original Game Soundtrack)</name>
+		</app>
+		<app>
 			<appid>4956690</appid>
 			<name>Sneaky Tail Playtest</name>
 		</app>
@@ -1510756,7 +1511100,7 @@
 		</app>
 		<app>
 			<appid>4970260</appid>
-			<name>アルスマギア</name>
+			<name>Arsmagia</name>
 		</app>
 		<app>
 			<appid>4970270</appid>
@@ -1511316,7 +1511660,7 @@
 		</app>
 		<app>
 			<appid>4972460</appid>
-			<name>ドラマライク アドベンチャー　本と鍵の季節</name>
+			<name>ドラマライク アドベンチャー『本と鍵の季節』</name>
 		</app>
 		<app>
 			<appid>4972480</appid>
@@ -1512689,6 +1513033,10 @@
 		<app>
 			<appid>4978060</appid>
 			<name>MMA Life Simulator Soundtrack</name>
+		</app>
+		<app>
+			<appid>4978080</appid>
+			<name>CARTA CHAIN: Maou-chan’s Deal</name>
 		</app>
 		<app>
 			<appid>4978090</appid>
@@ -1516779,6 +1517127,10 @@
 			<name>BattleDirector</name>
 		</app>
 		<app>
+			<appid>4993680</appid>
+			<name>Command Line Tower Defense</name>
+		</app>
+		<app>
 			<appid>4993690</appid>
 			<name>Iron Wake</name>
 		</app>
@@ -1517145,6 +1517497,10 @@
 		<app>
 			<appid>4995060</appid>
 			<name>The Tally</name>
+		</app>
+		<app>
+			<appid>4995070</appid>
+			<name>Sir Whoopass™: Rumble!</name>
 		</app>
 		<app>
 			<appid>4995080</appid>
@@ -1518189,6 +1518545,10 @@
 		<app>
 			<appid>4999100</appid>
 			<name>Eucalyptus Edge: MegaBlast Mayhem</name>
+		</app>
+		<app>
+			<appid>4999110</appid>
+			<name>PNEUMA Demo</name>
 		</app>
 		<app>
 			<appid>4999150</appid>
@@ -1520651,6 +1521011,10 @@
 			<name>Purgatoria</name>
 		</app>
 		<app>
+			<appid>5008900</appid>
+			<name>Call of Duty Endowment (C.O.D.E.) Valor Pack</name>
+		</app>
+		<app>
 			<appid>5008920</appid>
 			<name>DeadTide Demo</name>
 		</app>
@@ -1521603,6 +1521967,10 @@
 			<name>Tactical Zoomies</name>
 		</app>
 		<app>
+			<appid>5012450</appid>
+			<name>Street Tuff: The Miami Chapter</name>
+		</app>
+		<app>
 			<appid>5012470</appid>
 			<name>The Last Cornfield</name>
 		</app>
@@ -1522217,6 +1522585,10 @@
 		<app>
 			<appid>5014960</appid>
 			<name>Amphibian</name>
+		</app>
+		<app>
+			<appid>5014970</appid>
+			<name>Tung Tung Tung Together</name>
 		</app>
 		<app>
 			<appid>5014980</appid>
@@ -1523131,6 +1523503,10 @@
 			<name>VR StrideS Playtest</name>
 		</app>
 		<app>
+			<appid>5018560</appid>
+			<name>Little Loops</name>
+		</app>
+		<app>
 			<appid>5018570</appid>
 			<name>SoberUp</name>
 		</app>
@@ -1523377,6 +1523753,10 @@
 		<app>
 			<appid>5019470</appid>
 			<name>Solo Shift! - Late Night Solo Shift Pack</name>
+		</app>
+		<app>
+			<appid>5019490</appid>
+			<name>YOGRAK — the long way down</name>
 		</app>
 		<app>
 			<appid>5019510</appid>
@@ -1525557,6 +1525937,10 @@
 		<app>
 			<appid>5027960</appid>
 			<name>Deep Nightmare: Phobias Demo</name>
+		</app>
+		<app>
+			<appid>5027980</appid>
+			<name>Dunya Arena</name>
 		</app>
 		<app>
 			<appid>5027990</appid>
@@ -1529631,6 +1530015,10 @@
 			<name>Woolmates - Classic Set</name>
 		</app>
 		<app>
+			<appid>5043620</appid>
+			<name>Simple Wars</name>
+		</app>
+		<app>
 			<appid>5043630</appid>
 			<name>Woolmates - Pattern Set</name>
 		</app>
@@ -1529713,6 +1530101,10 @@
 		<app>
 			<appid>5043950</appid>
 			<name>The End of the Line: New Age</name>
+		</app>
+		<app>
+			<appid>5043960</appid>
+			<name>Beyond Repair Demo</name>
 		</app>
 		<app>
 			<appid>5043970</appid>
@@ -1530816,7 +1531208,7 @@
 		</app>
 		<app>
 			<appid>5048280</appid>
-			<name>阴间：血月</name>
+			<name>Netherworld: Blood Moon</name>
 		</app>
 		<app>
 			<appid>5048300</appid>
@@ -1535259,6 +1535651,10 @@
 			<name>Grail Soundtrack</name>
 		</app>
 		<app>
+			<appid>5065580</appid>
+			<name>Burn It Back</name>
+		</app>
+		<app>
 			<appid>5065600</appid>
 			<name>SagoCat Demo</name>
 		</app>
@@ -1536197,6 +1536593,10 @@
 		<app>
 			<appid>5069450</appid>
 			<name>Pickpocket Demo</name>
+		</app>
+		<app>
+			<appid>5069460</appid>
+			<name>Aircraft Broker</name>
 		</app>
 		<app>
 			<appid>5069470</appid>
@@ -1539277,6 +1539677,10 @@
 		<app>
 			<appid>5080960</appid>
 			<name>My Multiverse - 我的多元宇宙</name>
+		</app>
+		<app>
+			<appid>5080970</appid>
+			<name>A Game About Putting Shapes on Shelves</name>
 		</app>
 		<app>
 			<appid>5080980</appid>
@@ -1543123,6 +1543527,10 @@
 			<name>Puzzles Stars Artbook</name>
 		</app>
 		<app>
+			<appid>5095390</appid>
+			<name>Autopelago</name>
+		</app>
+		<app>
 			<appid>5095400</appid>
 			<name>Fog Keeper</name>
 		</app>
@@ -1543895,6 +1544303,10 @@
 			<name>GuitarVee</name>
 		</app>
 		<app>
+			<appid>5098410</appid>
+			<name>Super Kanji Flash</name>
+		</app>
+		<app>
 			<appid>5098440</appid>
 			<name>山海大模型</name>
 		</app>
@@ -1544263,6 +1544675,10 @@
 			<name>mechakucha pakurion Playtest</name>
 		</app>
 		<app>
+			<appid>5099790</appid>
+			<name>地獄楽 パラダイスバトル Soundtrack</name>
+		</app>
+		<app>
 			<appid>5099800</appid>
 			<name>CYBERCITY 2084</name>
 		</app>
@@ -1544297,6 +1544713,10 @@
 		<app>
 			<appid>5099900</appid>
 			<name>Bundoro</name>
+		</app>
+		<app>
+			<appid>5099910</appid>
+			<name>Mist Seekers</name>
 		</app>
 		<app>
 			<appid>5099920</appid>
@@ -1546191,6 +1546611,10 @@
 			<name>72 Seconds</name>
 		</app>
 		<app>
+			<appid>5107210</appid>
+			<name>Potion Dealer Playtest</name>
+		</app>
+		<app>
 			<appid>5107220</appid>
 			<name>弾幕の戦乙女 -Barrage of Valhalla- Demo</name>
 		</app>
@@ -1546957,6 +1547381,10 @@
 		<app>
 			<appid>5110400</appid>
 			<name>东墙日落奇谭</name>
+		</app>
+		<app>
+			<appid>5110410</appid>
+			<name>Black Steel: Syndicate Breaker Playtest</name>
 		</app>
 		<app>
 			<appid>5110430</appid>
@@ -1548111,6 +1548539,10 @@
 			<name>Desk Top Racer Soundtrack</name>
 		</app>
 		<app>
+			<appid>5115440</appid>
+			<name>Duck Duck Shoot!</name>
+		</app>
+		<app>
 			<appid>5115450</appid>
 			<name>Tempo Tamer Playtest</name>
 		</app>
@@ -1548129,6 +1548561,10 @@
 		<app>
 			<appid>5115530</appid>
 			<name>BURST NOIR - Fireworks Simulator</name>
+		</app>
+		<app>
+			<appid>5115540</appid>
+			<name>Flecto - Original Soundtrack</name>
 		</app>
 		<app>
 			<appid>5115550</appid>
@@ -1549313,6 +1549749,10 @@
 		<app>
 			<appid>5119940</appid>
 			<name>Shadow Rulers: World Order</name>
+		</app>
+		<app>
+			<appid>5119960</appid>
+			<name>I nailed this document!</name>
 		</app>
 		<app>
 			<appid>5119980</appid>
@@ -1552083,6 +1552523,14 @@
 			<name>World of Guns: Military Pack</name>
 		</app>
 		<app>
+			<appid>5130600</appid>
+			<name>World of Guns: Assault Rifles Pack #2</name>
+		</app>
+		<app>
+			<appid>5130610</appid>
+			<name>World of Guns: Assault Rifles Pack #3</name>
+		</app>
+		<app>
 			<appid>5130650</appid>
 			<name>TOWERTOWER</name>
 		</app>
@@ -1552605,6 +1553053,10 @@
 		<app>
 			<appid>5132390</appid>
 			<name>Hunting Contract</name>
+		</app>
+		<app>
+			<appid>5132410</appid>
+			<name>Wrapuzzle</name>
 		</app>
 		<app>
 			<appid>5132420</appid>
@@ -1556447,6 +1556899,10 @@
 			<name>99 NIGHTS IN THE APOCALYPSE Playtest</name>
 		</app>
 		<app>
+			<appid>5148810</appid>
+			<name>Doomed Village</name>
+		</app>
+		<app>
 			<appid>5148820</appid>
 			<name>Arcostate Demo</name>
 		</app>
@@ -1558199,6 +1558655,10 @@
 			<name>再跑亿遍</name>
 		</app>
 		<app>
+			<appid>5156810</appid>
+			<name>Tung Tung Tung Together - Supporter Pack</name>
+		</app>
+		<app>
 			<appid>5156820</appid>
 			<name>Sunburn</name>
 		</app>
@@ -1558687,6 +1559147,10 @@
 			<name>小贼修仙记 Demo</name>
 		</app>
 		<app>
+			<appid>5159010</appid>
+			<name>Overboost: Carball</name>
+		</app>
+		<app>
 			<appid>5159040</appid>
 			<name>Castle Against the Dark</name>
 		</app>
@@ -1559063,6 +1559527,10 @@
 			<name>One Bard Move</name>
 		</app>
 		<app>
+			<appid>5160920</appid>
+			<name>STARFALL</name>
+		</app>
+		<app>
 			<appid>5160950</appid>
 			<name>HUNTING PIXEL</name>
 		</app>
@@ -1559343,6 +1559811,10 @@
 			<name>HiFi Streamer Pro - Lumen Visualizer Plugin</name>
 		</app>
 		<app>
+			<appid>5162240</appid>
+			<name>Pit &amp; Pat</name>
+		</app>
+		<app>
 			<appid>5162250</appid>
 			<name>Get Tao Now Demo</name>
 		</app>
@@ -1559567,6 +1560039,10 @@
 			<name>Primal Idle Demo</name>
 		</app>
 		<app>
+			<appid>5163240</appid>
+			<name>TrackBlitz</name>
+		</app>
+		<app>
 			<appid>5163250</appid>
 			<name>NOROI SHOPPING</name>
 		</app>
@@ -1559769,6 +1560245,10 @@
 		<app>
 			<appid>5164210</appid>
 			<name>BROODHOUSE Demo</name>
+		</app>
+		<app>
+			<appid>5164250</appid>
+			<name>Drifteo</name>
 		</app>
 		<app>
 			<appid>5164260</appid>
@@ -1561739,6 +1562219,10 @@
 			<name>That Cloud Looks Like</name>
 		</app>
 		<app>
+			<appid>5171890</appid>
+			<name>Per My Last Email</name>
+		</app>
+		<app>
 			<appid>5171900</appid>
 			<name>SWARMED</name>
 		</app>
@@ -1562243,6 +1562727,10 @@
 			<name>Town &amp; Tales</name>
 		</app>
 		<app>
+			<appid>5173880</appid>
+			<name>Gold Dredge Simulator</name>
+		</app>
+		<app>
 			<appid>5173890</appid>
 			<name>Dungeon Ball</name>
 		</app>
@@ -1562717,6 +1563205,10 @@
 		<app>
 			<appid>5175650</appid>
 			<name>BloodStar: Raiders</name>
+		</app>
+		<app>
+			<appid>5175690</appid>
+			<name>21: Dead Man's Deck Demo</name>
 		</app>
 		<app>
 			<appid>5175700</appid>
@@ -1563493,6 +1563985,10 @@
 		<app>
 			<appid>5178950</appid>
 			<name>Tilemancer</name>
+		</app>
+		<app>
+			<appid>5178960</appid>
+			<name>A Red Specter Haunts the World – Free Sample</name>
 		</app>
 		<app>
 			<appid>5178970</appid>
@@ -1568151,6 +1568647,10 @@
 			<name>SPEED: 8.X</name>
 		</app>
 		<app>
+			<appid>5197070</appid>
+			<name>WICK: Wizards Into Cards that Kill Beta</name>
+		</app>
+		<app>
 			<appid>5197080</appid>
 			<name>Perfect Speed Playtest</name>
 		</app>
@@ -1570219,6 +1570719,10 @@
 			<name>Bank Architect</name>
 		</app>
 		<app>
+			<appid>5205320</appid>
+			<name>Bugulon 12</name>
+		</app>
+		<app>
 			<appid>5205350</appid>
 			<name>Apocalypse Jumpers Playtest</name>
 		</app>
@@ -1570995,6 +1571499,10 @@
 			<name>Rise of the Merchants Playtest</name>
 		</app>
 		<app>
+			<appid>5208620</appid>
+			<name>Prison Survivors</name>
+		</app>
+		<app>
 			<appid>5208630</appid>
 			<name>Fart Together Demo</name>
 		</app>
@@ -1571373,6 +1571881,10 @@
 		<app>
 			<appid>5210010</appid>
 			<name>Reel Adventure: The Autobattler Journey Demo</name>
+		</app>
+		<app>
+			<appid>5210030</appid>
+			<name>Towa Powa</name>
 		</app>
 		<app>
 			<appid>5210050</appid>
@@ -1571761,6 +1572273,10 @@
 		<app>
 			<appid>5212010</appid>
 			<name>DEPRECATED</name>
+		</app>
+		<app>
+			<appid>5212040</appid>
+			<name>Orbit Core Demo</name>
 		</app>
 		<app>
 			<appid>5212050</appid>
@@ -1573507,6 +1574023,10 @@
 			<name>White Noise</name>
 		</app>
 		<app>
+			<appid>5219610</appid>
+			<name>Midnight Soup House</name>
+		</app>
+		<app>
 			<appid>5219640</appid>
 			<name>Desk Hunter Demo</name>
 		</app>
@@ -1573829,6 +1574349,10 @@
 		<app>
 			<appid>5220930</appid>
 			<name>Marrowsteel</name>
+		</app>
+		<app>
+			<appid>5220940</appid>
+			<name>World Of Arena</name>
 		</app>
 		<app>
 			<appid>5220950</appid>
@@ -1575195,6 +1575719,10 @@
 			<name>Rage Room Together</name>
 		</app>
 		<app>
+			<appid>5226790</appid>
+			<name>Jumpshot Demo</name>
+		</app>
+		<app>
 			<appid>5226810</appid>
 			<name>Cybernetic Strategy</name>
 		</app>
@@ -1575369,6 +1575897,10 @@
 		<app>
 			<appid>5227440</appid>
 			<name>RealSub Full Version</name>
+		</app>
+		<app>
+			<appid>5227450</appid>
+			<name>Shrooms Demo</name>
 		</app>
 		<app>
 			<appid>5227470</appid>
@@ -1576543,6 +1577075,10 @@
 			<name>GO DUB YOURSELF!</name>
 		</app>
 		<app>
+			<appid>5232070</appid>
+			<name>BALL PICKER - Clean Up the Golf Yard Playtest</name>
+		</app>
+		<app>
 			<appid>5232080</appid>
 			<name>FlashBoss - The Guide - Part II</name>
 		</app>
@@ -1576705,6 +1577241,10 @@
 		<app>
 			<appid>5232580</appid>
 			<name>是谁偷走了我的人生？</name>
+		</app>
+		<app>
+			<appid>5232590</appid>
+			<name>Les Petites Rives</name>
 		</app>
 		<app>
 			<appid>5232600</appid>
@@ -1577016,7 +1577556,7 @@
 		</app>
 		<app>
 			<appid>5233860</appid>
-			<name>餘燼之軍 EmbersOfWar</name>
+			<name>Embers of War</name>
 		</app>
 		<app>
 			<appid>5233870</appid>
@@ -1578071,6 +1578611,10 @@
 			<name>Lucky Shot VR</name>
 		</app>
 		<app>
+			<appid>5238070</appid>
+			<name>Star Stations Playtest</name>
+		</app>
+		<app>
 			<appid>5238090</appid>
 			<name>NAQOO: BOLTFIRE</name>
 		</app>
@@ -1578411,6 +1578955,10 @@
 			<name>Let's Live Together Sis Demo</name>
 		</app>
 		<app>
+			<appid>5239450</appid>
+			<name>工場見学→</name>
+		</app>
+		<app>
 			<appid>5239460</appid>
 			<name>Desktop Halfpipe - Halfpipe Pets</name>
 		</app>
@@ -1578541,6 +1579089,10 @@
 		<app>
 			<appid>5239990</appid>
 			<name>Tile The Sea</name>
+		</app>
+		<app>
+			<appid>5240000</appid>
+			<name>Hunters Rain</name>
 		</app>
 		<app>
 			<appid>5240030</appid>
@@ -1579329,6 +1579881,10 @@
 		<app>
 			<appid>5243440</appid>
 			<name>AI-VJ - Biolumine Visuals</name>
+		</app>
+		<app>
+			<appid>5243450</appid>
+			<name>AI-VJ - Romans Visuals</name>
 		</app>
 		<app>
 			<appid>5243490</appid>
@@ -1582863,6 +1583419,10 @@
 			<name>全小将 Demo</name>
 		</app>
 		<app>
+			<appid>5258070</appid>
+			<name>ReTurned</name>
+		</app>
+		<app>
 			<appid>5258080</appid>
 			<name>Legacy of the Griffin</name>
 		</app>
@@ -1582921,6 +1583481,10 @@
 		<app>
 			<appid>5258250</appid>
 			<name>Necrotel: No Checkout Demo</name>
+		</app>
+		<app>
+			<appid>5258260</appid>
+			<name>A Tale of Light</name>
 		</app>
 		<app>
 			<appid>5258280</appid>
@@ -1583911,6 +1584475,10 @@
 			<name>The Returns Desk: A Cozy Library</name>
 		</app>
 		<app>
+			<appid>5262320</appid>
+			<name>The Ninth Witch’s Jail Demo</name>
+		</app>
+		<app>
 			<appid>5262330</appid>
 			<name>麻辣烫模拟器</name>
 		</app>
@@ -1584157,6 +1584725,10 @@
 		<app>
 			<appid>5263460</appid>
 			<name>Sort Them Cats</name>
+		</app>
+		<app>
+			<appid>5263480</appid>
+			<name>LEAK Demo</name>
 		</app>
 		<app>
 			<appid>5263510</appid>
@@ -1584623,6 +1585195,10 @@
 			<name>PC SHOP SIMULATOR</name>
 		</app>
 		<app>
+			<appid>5265570</appid>
+			<name>FERRUM</name>
+		</app>
+		<app>
 			<appid>5265600</appid>
 			<name>Fujisan Nobori Demo</name>
 		</app>
@@ -1584651,6 +1585227,10 @@
 			<name>ZERO//DECAY Demo</name>
 		</app>
 		<app>
+			<appid>5265740</appid>
+			<name>Pulse Drive - Customization Kit</name>
+		</app>
+		<app>
 			<appid>5265750</appid>
 			<name>Haemu Station: The Last Announcement</name>
 		</app>
@@ -1584673,6 +1585253,10 @@
 		<app>
 			<appid>5265820</appid>
 			<name>坠入流星岛</name>
+		</app>
+		<app>
+			<appid>5265830</appid>
+			<name>starmoor</name>
 		</app>
 		<app>
 			<appid>5265870</appid>
@@ -1585605,6 +1586189,10 @@
 		<app>
 			<appid>5269350</appid>
 			<name>Guild Leader: The Hero Behind the Desk</name>
+		</app>
+		<app>
+			<appid>5269380</appid>
+			<name>NTR life Drawing? Cash for Obedience......!</name>
 		</app>
 		<app>
 			<appid>5269390</appid>
@@ -1586947,6 +1587535,10 @@
 			<name>Merchants Demise</name>
 		</app>
 		<app>
+			<appid>5274930</appid>
+			<name>NTR life Drawing? Cash for Obedience......! ASMR Soundtrack</name>
+		</app>
+		<app>
 			<appid>5274980</appid>
 			<name>方块战场 Block Battlefield Demo</name>
 		</app>
@@ -1587491,6 +1588083,10 @@
 			<name>JOOCOURT</name>
 		</app>
 		<app>
+			<appid>5277540</appid>
+			<name>The Pyramid</name>
+		</app>
+		<app>
 			<appid>5277550</appid>
 			<name>Hush Off</name>
 		</app>
@@ -1587705,6 +1588301,10 @@
 		<app>
 			<appid>5278370</appid>
 			<name>Night Study</name>
+		</app>
+		<app>
+			<appid>5278380</appid>
+			<name>The Millionth Ticket</name>
 		</app>
 		<app>
 			<appid>5278400</appid>
@@ -1588447,8 +1589047,16 @@
 			<name>Illyrium: Chronicles</name>
 		</app>
 		<app>
+			<appid>5281840</appid>
+			<name>SuNaKuru</name>
+		</app>
+		<app>
 			<appid>5281860</appid>
 			<name>Family Number Hunters</name>
+		</app>
+		<app>
+			<appid>5281870</appid>
+			<name>Tailgun</name>
 		</app>
 		<app>
 			<appid>5281880</appid>
@@ -1589711,6 +1590319,10 @@
 			<name>Five to Fire Demo</name>
 		</app>
 		<app>
+			<appid>5286990</appid>
+			<name>MAGEKIN</name>
+		</app>
+		<app>
 			<appid>5287000</appid>
 			<name>Dual Cultivation: Sword Immortal Chronicles demo</name>
 		</app>
@@ -1589777,6 +1590389,10 @@
 		<app>
 			<appid>5287280</appid>
 			<name>Avlo the Imp Wizard Demo</name>
+		</app>
+		<app>
+			<appid>5287290</appid>
+			<name>浴血淞沪</name>
 		</app>
 		<app>
 			<appid>5287300</appid>
@@ -1590965,6 +1591581,10 @@
 		<app>
 			<appid>5292250</appid>
 			<name>楼兰王国 Demo</name>
+		</app>
+		<app>
+			<appid>5292280</appid>
+			<name>Zen House: Zed Zero Simulator</name>
 		</app>
 		<app>
 			<appid>5292290</appid>
@@ -1592399,6 +1593019,10 @@
 			<name>Starward Era</name>
 		</app>
 		<app>
+			<appid>5298390</appid>
+			<name>Who Earns More</name>
+		</app>
+		<app>
 			<appid>5298400</appid>
 			<name>Arcana Rift: Tactics Demo</name>
 		</app>
@@ -1592805,6 +1593429,10 @@
 		<app>
 			<appid>5299930</appid>
 			<name>MOONHIDE</name>
+		</app>
+		<app>
+			<appid>5299940</appid>
+			<name>Autork</name>
 		</app>
 		<app>
 			<appid>5299950</appid>
@@ -1593591,6 +1594219,10 @@
 			<name>The Fallen Chronicles Demo</name>
 		</app>
 		<app>
+			<appid>5302920</appid>
+			<name>Maze Heroes</name>
+		</app>
+		<app>
 			<appid>5302930</appid>
 			<name>Trash &amp; Infinite: Dungeon Card Demo</name>
 		</app>
@@ -1593605,6 +1594237,10 @@
 		<app>
 			<appid>5302980</appid>
 			<name>HUNT Playtest</name>
+		</app>
+		<app>
+			<appid>5303020</appid>
+			<name>Maze Heroes Demo</name>
 		</app>
 		<app>
 			<appid>5303030</appid>
@@ -1594751,6 +1595387,10 @@
 			<name>LABYRISON Demo</name>
 		</app>
 		<app>
+			<appid>5307850</appid>
+			<name>Warface - Хеллоуинские кошмары</name>
+		</app>
+		<app>
 			<appid>5307860</appid>
 			<name>Pixel Airport Tycoon 3D - Aircraft Pack 2</name>
 		</app>
@@ -1595231,6 +1595871,10 @@
 			<name>Настоящие пазлы - Лагуна</name>
 		</app>
 		<app>
+			<appid>5309760</appid>
+			<name>Feed Us, Human!</name>
+		</app>
+		<app>
 			<appid>5309780</appid>
 			<name>CONTRACT #001</name>
 		</app>
@@ -1595407,6 +1596051,10 @@
 			<name>VALKYRIE ETERNAL SKIES</name>
 		</app>
 		<app>
+			<appid>5310560</appid>
+			<name>Arachne's Loom Playtest</name>
+		</app>
+		<app>
 			<appid>5310580</appid>
 			<name>Manikin Mimic Demo</name>
 		</app>
@@ -1595529,6 +1596177,10 @@
 		<app>
 			<appid>5311330</appid>
 			<name>Street Takeover Demo</name>
+		</app>
+		<app>
+			<appid>5311340</appid>
+			<name>Royal Court</name>
 		</app>
 		<app>
 			<appid>5311360</appid>
@@ -1595657,6 +1596309,10 @@
 		<app>
 			<appid>5311920</appid>
 			<name>Rally Racing VR: Xtreme Speed Challenge - Unlock All Cars and Liveries</name>
+		</app>
+		<app>
+			<appid>5311970</appid>
+			<name>Rally Racing VR: Xtreme Speed Challenge - Unlock All Gloves</name>
 		</app>
 		<app>
 			<appid>5311990</appid>
@@ -1596237,6 +1596893,10 @@
 		<app>
 			<appid>5314450</appid>
 			<name>方寸小家 RoomFolk</name>
+		</app>
+		<app>
+			<appid>5314460</appid>
+			<name>이직</name>
 		</app>
 		<app>
 			<appid>5314470</appid>
@@ -1596843,6 +1597503,14 @@
 			<name>Hypnogenesis Playtest</name>
 		</app>
 		<app>
+			<appid>5316870</appid>
+			<name>Futa World: The Big-Cocked OL</name>
+		</app>
+		<app>
+			<appid>5316880</appid>
+			<name>Hentai Tales: Papa Katsu APP - Healed With Her Boobs</name>
+		</app>
+		<app>
 			<appid>5316890</appid>
 			<name>The Liberty League</name>
 		</app>
@@ -1597327,6 +1597995,10 @@
 			<name>Iron Trails</name>
 		</app>
 		<app>
+			<appid>5319100</appid>
+			<name>Closed Case</name>
+		</app>
+		<app>
 			<appid>5319120</appid>
 			<name>Pioneer Venture: Echo Demo</name>
 		</app>
@@ -1597357,6 +1598029,10 @@
 		<app>
 			<appid>5319290</appid>
 			<name>SCRAPWAVE</name>
+		</app>
+		<app>
+			<appid>5319320</appid>
+			<name>Mr. Panas Playtest</name>
 		</app>
 		<app>
 			<appid>5319340</appid>
@@ -1597569,6 +1598245,10 @@
 		<app>
 			<appid>5320250</appid>
 			<name>无尽女武神 Demo</name>
+		</app>
+		<app>
+			<appid>5320260</appid>
+			<name>Sudoku Studio - Puzzle Pack 1</name>
 		</app>
 		<app>
 			<appid>5320270</appid>
@@ -1598027,8 +1598707,16 @@
 			<name>Razor Squadron Demo</name>
 		</app>
 		<app>
+			<appid>5322430</appid>
+			<name>Put the Ball in the Hole Demo</name>
+		</app>
+		<app>
 			<appid>5322440</appid>
 			<name>ProtoDungeon: Episode III Demo</name>
+		</app>
+		<app>
+			<appid>5322460</appid>
+			<name>AudioCat</name>
 		</app>
 		<app>
 			<appid>5322470</appid>
@@ -1599475,6 +1600163,10 @@
 			<name>Red Rising Demo</name>
 		</app>
 		<app>
+			<appid>5327910</appid>
+			<name>Cyber Maze</name>
+		</app>
+		<app>
 			<appid>5327970</appid>
 			<name>Under Investigation</name>
 		</app>
@@ -1599725,6 +1600417,10 @@
 		<app>
 			<appid>5328970</appid>
 			<name>Royal Tell-All Affair</name>
+		</app>
+		<app>
+			<appid>5328980</appid>
+			<name>Cosmos Knights - Abyss Survivors</name>
 		</app>
 		<app>
 			<appid>5328990</appid>
@@ -1600184,7 +1600880,7 @@
 		</app>
 		<app>
 			<appid>5331100</appid>
-			<name>Chick'Hen Show Demo</name>
+			<name>Chicken Show Demo</name>
 		</app>
 		<app>
 			<appid>5331120</appid>
@@ -1600305,6 +1601001,10 @@
 		<app>
 			<appid>5331490</appid>
 			<name>Card Girls: Shimmerdeck</name>
+		</app>
+		<app>
+			<appid>5331500</appid>
+			<name>Age of Mankind</name>
 		</app>
 		<app>
 			<appid>5331520</appid>
@@ -1600667,6 +1601367,10 @@
 			<name>Working Dead Demo</name>
 		</app>
 		<app>
+			<appid>5332940</appid>
+			<name>UNSTITCHED Playtest</name>
+		</app>
+		<app>
 			<appid>5332990</appid>
 			<name>Roadweave</name>
 		</app>
@@ -1600855,6 +1601559,10 @@
 			<name>BECOME LIFE Demo</name>
 		</app>
 		<app>
+			<appid>5333740</appid>
+			<name>EGNAR</name>
+		</app>
+		<app>
 			<appid>5333760</appid>
 			<name>Last Round: Champion's Rise Demo</name>
 		</app>
@@ -1600875,6 +1601583,10 @@
 			<name>I, Spy Demo</name>
 		</app>
 		<app>
+			<appid>5333870</appid>
+			<name>You Can't Drink Gold Playtest</name>
+		</app>
+		<app>
 			<appid>5333880</appid>
 			<name>SX BEYOND</name>
 		</app>
@@ -1600889,6 +1601601,10 @@
 		<app>
 			<appid>5333910</appid>
 			<name>MATO-STICK</name>
+		</app>
+		<app>
+			<appid>5333920</appid>
+			<name>Taw Breaker</name>
 		</app>
 		<app>
 			<appid>5333930</appid>
@@ -1601192,7 +1601908,7 @@
 		</app>
 		<app>
 			<appid>5335270</appid>
-			<name>ファイナル棍棒</name>
+			<name> クラブ・オブ・レジェンド</name>
 		</app>
 		<app>
 			<appid>5335280</appid>
@@ -1601213,6 +1601929,10 @@
 		<app>
 			<appid>5335330</appid>
 			<name>Sunlit Suites</name>
+		</app>
+		<app>
+			<appid>5335340</appid>
+			<name>The Last Ledger</name>
 		</app>
 		<app>
 			<appid>5335370</appid>
@@ -1601883,6 +1602603,10 @@
 			<name>EVICTIO</name>
 		</app>
 		<app>
+			<appid>5337980</appid>
+			<name>渴不容缓 Demo</name>
+		</app>
+		<app>
 			<appid>5337990</appid>
 			<name>Abyss</name>
 		</app>
@@ -1602053,6 +1602777,10 @@
 		<app>
 			<appid>5338620</appid>
 			<name>Carry On Together Demo</name>
+		</app>
+		<app>
+			<appid>5338640</appid>
+			<name>RATS!! - Co-op Tower Defense</name>
 		</app>
 		<app>
 			<appid>5338650</appid>
@@ -1602291,6 +1603019,10 @@
 			<name>释魂日志 Demo</name>
 		</app>
 		<app>
+			<appid>5339610</appid>
+			<name>Heavyweight Saint Demo</name>
+		</app>
+		<app>
 			<appid>5339620</appid>
 			<name>DEFY</name>
 		</app>
@@ -1602345,6 +1603077,10 @@
 		<app>
 			<appid>5339820</appid>
 			<name>Captive 3000 Lower Floors Soundtrack</name>
+		</app>
+		<app>
+			<appid>5339830</appid>
+			<name>Bloom Blow Demo</name>
 		</app>
 		<app>
 			<appid>5339840</appid>
@@ -1603545,6 +1604281,10 @@
 		<app>
 			<appid>5344820</appid>
 			<name>Islandry Demo</name>
+		</app>
+		<app>
+			<appid>5344830</appid>
+			<name>Red Flags: Normal Trade Relations</name>
 		</app>
 		<app>
 			<appid>5344850</appid>
@@ -1604863,6 +1605603,10 @@
 			<name>VoxWish</name>
 		</app>
 		<app>
+			<appid>5350720</appid>
+			<name>2Desktop</name>
+		</app>
+		<app>
 			<appid>5350730</appid>
 			<name>Mogura: The Hidden Mountain</name>
 		</app>
@@ -1605231,6 +1605975,10 @@
 			<name>Soul Expire Demo</name>
 		</app>
 		<app>
+			<appid>5352470</appid>
+			<name>Corgi Race Live</name>
+		</app>
+		<app>
 			<appid>5352490</appid>
 			<name>Poppy Demo</name>
 		</app>
@@ -1605432,7 +1606180,7 @@
 		</app>
 		<app>
 			<appid>5353360</appid>
-			<name>Project MAGNUM Demo</name>
+			<name>MAGNUM Protocol Demo</name>
 		</app>
 		<app>
 			<appid>5353370</appid>
@@ -1605487,6 +1606235,10 @@
 			<name>PAPERWORKS: Paper Shredder Inc.</name>
 		</app>
 		<app>
+			<appid>5353580</appid>
+			<name>RailBlaster Soundtrack</name>
+		</app>
+		<app>
 			<appid>5353590</appid>
 			<name>UFO98 Demo</name>
 		</app>
@@ -1605501,6 +1606253,10 @@
 		<app>
 			<appid>5353650</appid>
 			<name>Angel Legion-DLC Off-Shoulder Sweater (White)</name>
+		</app>
+		<app>
+			<appid>5353660</appid>
+			<name>Angel Legion-DLC Off-Shoulder Sweater (Black)</name>
 		</app>
 		<app>
 			<appid>5353670</appid>
@@ -1605533,6 +1606289,10 @@
 		<app>
 			<appid>5353820</appid>
 			<name>Dungeon Cleared! Demo</name>
+		</app>
+		<app>
+			<appid>5353830</appid>
+			<name>Tavern Aftermath</name>
 		</app>
 		<app>
 			<appid>5353860</appid>
@@ -1605731,6 +1606491,10 @@
 			<name>PETAFAB: Bot Invasion</name>
 		</app>
 		<app>
+			<appid>5354790</appid>
+			<name>Diceru</name>
+		</app>
+		<app>
 			<appid>5354800</appid>
 			<name>The Restoration Studio: Masterpiece Nonograms</name>
 		</app>
@@ -1605797,6 +1606561,10 @@
 		<app>
 			<appid>5355160</appid>
 			<name>Bleeding Nightmare | 血に染まる悪夢 Demo</name>
+		</app>
+		<app>
+			<appid>5355190</appid>
+			<name>Final Boarding Call Passengers</name>
 		</app>
 		<app>
 			<appid>5355200</appid>
@@ -1606611,6 +1607379,10 @@
 			<name>Stock Escape Demo</name>
 		</app>
 		<app>
+			<appid>5359080</appid>
+			<name>TIDESTEP</name>
+		</app>
+		<app>
 			<appid>5359190</appid>
 			<name>Winnie The Pooh Redux: Halloween Survivors Demo</name>
 		</app>
@@ -1606805,6 +1607577,10 @@
 		<app>
 			<appid>5360020</appid>
 			<name>Puzzle Algae Artbook</name>
+		</app>
+		<app>
+			<appid>5360030</appid>
+			<name>Holy Panties in Another World Demo</name>
 		</app>
 		<app>
 			<appid>5360040</appid>
@@ -1607451,6 +1608227,10 @@
 			<name>Echo Sequence</name>
 		</app>
 		<app>
+			<appid>5362770</appid>
+			<name>Dookie Clicker: The Big Pfft</name>
+		</app>
+		<app>
 			<appid>5362780</appid>
 			<name>Graveyard Shift: Oakhaven Demo</name>
 		</app>
@@ -1607493,6 +1608273,10 @@
 		<app>
 			<appid>5362960</appid>
 			<name>Under the Rust Demo</name>
+		</app>
+		<app>
+			<appid>5362970</appid>
+			<name>Robo Fight Demo</name>
 		</app>
 		<app>
 			<appid>5363000</appid>
@@ -1607609,6 +1608393,10 @@
 		<app>
 			<appid>5363410</appid>
 			<name>Diggers Down Demo</name>
+		</app>
+		<app>
+			<appid>5363420</appid>
+			<name>SpartanBit</name>
 		</app>
 		<app>
 			<appid>5363430</appid>
@@ -1607887,6 +1608675,10 @@
 			<name>Gridlock Alchemy Demo</name>
 		</app>
 		<app>
+			<appid>5364640</appid>
+			<name>Wiltcards</name>
+		</app>
+		<app>
 			<appid>5364660</appid>
 			<name>L Wars: Chi Town</name>
 		</app>
@@ -1608015,6 +1608807,10 @@
 			<name>WaxWire: Program the Hive</name>
 		</app>
 		<app>
+			<appid>5365150</appid>
+			<name>Leyline Arcanum</name>
+		</app>
+		<app>
 			<appid>5365180</appid>
 			<name>The Short Hero's Honey Trap Dungeon</name>
 		</app>
@@ -1608141,6 +1608937,10 @@
 		<app>
 			<appid>5365640</appid>
 			<name>Interlace Demo</name>
+		</app>
+		<app>
+			<appid>5365650</appid>
+			<name>Noclip: Entity Playtest</name>
 		</app>
 		<app>
 			<appid>5365690</appid>
@@ -1608333,6 +1609133,10 @@
 		<app>
 			<appid>5366610</appid>
 			<name>Stellar Abyss Playtest</name>
+		</app>
+		<app>
+			<appid>5366630</appid>
+			<name>報連喪症候群 Demo</name>
 		</app>
 		<app>
 			<appid>5366680</appid>
@@ -1608819,6 +1609623,10 @@
 			<name>Mokomon: Five Elements Demo</name>
 		</app>
 		<app>
+			<appid>5368710</appid>
+			<name>Sports Club Support Pack</name>
+		</app>
+		<app>
 			<appid>5368720</appid>
 			<name>Pixel Painter - Brush Designer</name>
 		</app>
@@ -1609213,6 +1610021,14 @@
 		<app>
 			<appid>5370800</appid>
 			<name>Cambell's Oddity Box - City Of Heroes</name>
+		</app>
+		<app>
+			<appid>5370810</appid>
+			<name>The King Must Grow</name>
+		</app>
+		<app>
+			<appid>5370820</appid>
+			<name>Echonox: Echoes of Heartholm</name>
 		</app>
 		<app>
 			<appid>5370830</appid>
@@ -1610355,6 +1611171,10 @@
 			<name>BoxParty! Demo</name>
 		</app>
 		<app>
+			<appid>5375790</appid>
+			<name>DesktopHeart</name>
+		</app>
+		<app>
 			<appid>5375800</appid>
 			<name>Priority One Demo</name>
 		</app>
@@ -1610891,6 +1611711,10 @@
 			<name>One More Lawn</name>
 		</app>
 		<app>
+			<appid>5378120</appid>
+			<name>Rune Covenant</name>
+		</app>
+		<app>
 			<appid>5378130</appid>
 			<name>Awoken Demo</name>
 		</app>
@@ -1610997,6 +1611821,10 @@
 		<app>
 			<appid>5378560</appid>
 			<name>Yandere Apocalypse Demo</name>
+		</app>
+		<app>
+			<appid>5378590</appid>
+			<name>Last Thaw</name>
 		</app>
 		<app>
 			<appid>5378600</appid>
@@ -1611751,6 +1612579,10 @@
 			<name>Potion Recipe</name>
 		</app>
 		<app>
+			<appid>5381690</appid>
+			<name>Engria, The Twisted Carnival</name>
+		</app>
+		<app>
 			<appid>5381700</appid>
 			<name>Into The Sands Demo</name>
 		</app>
@@ -1611789,6 +1612621,10 @@
 		<app>
 			<appid>5381850</appid>
 			<name>Elevator Button Simulator</name>
+		</app>
+		<app>
+			<appid>5381860</appid>
+			<name>Low Space Race Demo</name>
 		</app>
 		<app>
 			<appid>5381890</appid>
@@ -1611877,6 +1612713,10 @@
 		<app>
 			<appid>5382300</appid>
 			<name>The Sea is Our Stage Demo</name>
+		</app>
+		<app>
+			<appid>5382310</appid>
+			<name>EDGEBORN: Desktop RPG</name>
 		</app>
 		<app>
 			<appid>5382320</appid>
@@ -1612067,6 +1612907,10 @@
 			<name>Abarya Demo</name>
 		</app>
 		<app>
+			<appid>5383260</appid>
+			<name>Reverie Playtest</name>
+		</app>
+		<app>
 			<appid>5383270</appid>
 			<name>Soul Snake 3D</name>
 		</app>
@@ -1612077,6 +1612921,10 @@
 		<app>
 			<appid>5383320</appid>
 			<name>A Country Named Hunger Demo</name>
+		</app>
+		<app>
+			<appid>5383330</appid>
+			<name>Defilade Playtest</name>
 		</app>
 		<app>
 			<appid>5383340</appid>
@@ -1612319,6 +1613167,10 @@
 			<name>Futa Stream</name>
 		</app>
 		<app>
+			<appid>5384580</appid>
+			<name>Hatchbar</name>
+		</app>
+		<app>
 			<appid>5384590</appid>
 			<name>谎言满座 Demo</name>
 		</app>
@@ -1612417,6 +1613269,10 @@
 		<app>
 			<appid>5384940</appid>
 			<name>I SUCK DICKS AND HATE AI - SPACE MEGALODON DICK</name>
+		</app>
+		<app>
+			<appid>5384950</appid>
+			<name>Hentai Clicker: Vespera is streaming</name>
 		</app>
 		<app>
 			<appid>5384970</appid>
@@ -1612523,6 +1613379,10 @@
 			<name>Тройной след: Пятый след (изображения)</name>
 		</app>
 		<app>
+			<appid>5385440</appid>
+			<name>Obsession</name>
+		</app>
+		<app>
 			<appid>5385490</appid>
 			<name>Shav : The Night Watch</name>
 		</app>
@@ -1612549,6 +1613409,10 @@
 		<app>
 			<appid>5385580</appid>
 			<name>BUTCHER SARU</name>
+		</app>
+		<app>
+			<appid>5385590</appid>
+			<name>光不归谁 Demo</name>
 		</app>
 		<app>
 			<appid>5385600</appid>
@@ -1612775,6 +1613639,10 @@
 			<name>Ashen of Thrones Demo</name>
 		</app>
 		<app>
+			<appid>5386690</appid>
+			<name>Rising Together: Nayyar &amp;amp;amp; Riab Playtest</name>
+		</app>
+		<app>
 			<appid>5386730</appid>
 			<name>Opolution</name>
 		</app>
@@ -1612867,6 +1613735,10 @@
 			<name>IRONWOUND Demo</name>
 		</app>
 		<app>
+			<appid>5387100</appid>
+			<name>Retroventory Demo</name>
+		</app>
+		<app>
 			<appid>5387110</appid>
 			<name>Too. Many. Socks.</name>
 		</app>
@@ -1612877,6 +1613749,10 @@
 		<app>
 			<appid>5387140</appid>
 			<name>Nana's Game Dev Diary Demo</name>
+		</app>
+		<app>
+			<appid>5387160</appid>
+			<name>Sumverse</name>
 		</app>
 		<app>
 			<appid>5387170</appid>
@@ -1612911,6 +1613787,10 @@
 			<name>Cubus Tower Soundtrack</name>
 		</app>
 		<app>
+			<appid>5387300</appid>
+			<name>Prowlers Shift Demo</name>
+		</app>
+		<app>
 			<appid>5387320</appid>
 			<name>Ribbit Robber Demo</name>
 		</app>
@@ -1612925,6 +1613805,10 @@
 		<app>
 			<appid>5387350</appid>
 			<name>Tactical Terry</name>
+		</app>
+		<app>
+			<appid>5387360</appid>
+			<name>Bandidos em Brasilia Demo</name>
 		</app>
 		<app>
 			<appid>5387370</appid>
@@ -1613067,6 +1613951,10 @@
 			<name>Toilet Exploration</name>
 		</app>
 		<app>
+			<appid>5387870</appid>
+			<name>Star Imperium Playtest</name>
+		</app>
+		<app>
 			<appid>5387920</appid>
 			<name>MAT</name>
 		</app>
@@ -1613103,6 +1613991,10 @@
 			<name>Mingle Demo</name>
 		</app>
 		<app>
+			<appid>5388030</appid>
+			<name>LEVELS Demo</name>
+		</app>
+		<app>
 			<appid>5388040</appid>
 			<name>HexScrawl</name>
 		</app>
@@ -1613129,6 +1614021,10 @@
 		<app>
 			<appid>5388120</appid>
 			<name>Rooklite Demo</name>
+		</app>
+		<app>
+			<appid>5388130</appid>
+			<name>VoxKart: Combat Circuit Racing Demo</name>
 		</app>
 		<app>
 			<appid>5388140</appid>
@@ -1613353,6 +1614249,10 @@
 		<app>
 			<appid>5389220</appid>
 			<name>Blunder Brigade</name>
+		</app>
+		<app>
+			<appid>5389260</appid>
+			<name>My Fart Adventure</name>
 		</app>
 		<app>
 			<appid>5389270</appid>
@@ -1613955,6 +1614855,10 @@
 			<name>Swish and Flick: Tidy Up Together</name>
 		</app>
 		<app>
+			<appid>5392280</appid>
+			<name>Click! Make Zombie!</name>
+		</app>
+		<app>
 			<appid>5392290</appid>
 			<name>Too Many Orbs!</name>
 		</app>
@@ -1614087,6 +1614991,14 @@
 			<name>Backrooms Shop</name>
 		</app>
 		<app>
+			<appid>5392910</appid>
+			<name>Twin drive Demo</name>
+		</app>
+		<app>
+			<appid>5392970</appid>
+			<name>Obscurium Demo</name>
+		</app>
+		<app>
 			<appid>5392980</appid>
 			<name>8 Worlds Demo</name>
 		</app>
@@ -1614187,6 +1615099,10 @@
 			<name>Folded Fables: Tidy Up The Dragon Hoard Supporter Pack (PDF Coloring Book)</name>
 		</app>
 		<app>
+			<appid>5393460</appid>
+			<name>knock Time</name>
+		</app>
+		<app>
 			<appid>5393480</appid>
 			<name>GRAVENTH Demo</name>
 		</app>
@@ -1614201,6 +1615117,10 @@
 		<app>
 			<appid>5393540</appid>
 			<name>Rookie Rook Demo</name>
+		</app>
+		<app>
+			<appid>5393550</appid>
+			<name>Backroom : First Signal</name>
 		</app>
 		<app>
 			<appid>5393600</appid>
@@ -1614221,6 +1615141,10 @@
 		<app>
 			<appid>5393670</appid>
 			<name>Surviving Day! Playtest</name>
+		</app>
+		<app>
+			<appid>5393690</appid>
+			<name>Last Light Demo</name>
 		</app>
 		<app>
 			<appid>5393700</appid>
@@ -1614317,6 +1615241,10 @@
 		<app>
 			<appid>5394180</appid>
 			<name>Legit Enough</name>
+		</app>
+		<app>
+			<appid>5394190</appid>
+			<name>Igni-Qua</name>
 		</app>
 		<app>
 			<appid>5394200</appid>
@@ -1614431,6 +1615359,10 @@
 			<name>Seaways</name>
 		</app>
 		<app>
+			<appid>5394760</appid>
+			<name>Black Zero</name>
+		</app>
+		<app>
 			<appid>5394770</appid>
 			<name>Save Your Body!</name>
 		</app>
@@ -1614453,6 +1615385,10 @@
 		<app>
 			<appid>5394870</appid>
 			<name>Geometry Rift: Apocalypse Playtest</name>
+		</app>
+		<app>
+			<appid>5394880</appid>
+			<name>DYTH</name>
 		</app>
 		<app>
 			<appid>5394890</appid>
@@ -1614631,6 +1615567,10 @@
 			<name>Dead Signal</name>
 		</app>
 		<app>
+			<appid>5395790</appid>
+			<name>MonsterCuisines</name>
+		</app>
+		<app>
 			<appid>5395800</appid>
 			<name>Breakremental</name>
 		</app>
@@ -1614695,8 +1615635,16 @@
 			<name>诸界竞技场 Demo</name>
 		</app>
 		<app>
+			<appid>5396140</appid>
+			<name>Noctheria Demo</name>
+		</app>
+		<app>
 			<appid>5396150</appid>
 			<name>Joker's Wild</name>
+		</app>
+		<app>
+			<appid>5396160</appid>
+			<name>Elysium: Warfront Playtest</name>
 		</app>
 		<app>
 			<appid>5396170</appid>
@@ -1614915,6 +1615863,10 @@
 			<name>Seal Way Demo</name>
 		</app>
 		<app>
+			<appid>5397120</appid>
+			<name>Game Breaker: Divine Error Playtest</name>
+		</app>
+		<app>
 			<appid>5397130</appid>
 			<name>Next, Million Worlds</name>
 		</app>
@@ -1614983,12 +1615935,20 @@
 			<name>HOSHIKUI Demo</name>
 		</app>
 		<app>
+			<appid>5397510</appid>
+			<name>わぶへび</name>
+		</app>
+		<app>
 			<appid>5397530</appid>
 			<name>Three Kingdoms: Blood Battle Mahjong - Gender-Swap Character Pack</name>
 		</app>
 		<app>
 			<appid>5397540</appid>
 			<name>Tidy Up the Ark Playtest</name>
+		</app>
+		<app>
+			<appid>5397550</appid>
+			<name>ゴニンカン-津軽トランプゲーム-</name>
 		</app>
 		<app>
 			<appid>5397590</appid>
@@ -1615041,6 +1616001,10 @@
 		<app>
 			<appid>5397750</appid>
 			<name>WildBonds</name>
+		</app>
+		<app>
+			<appid>5397770</appid>
+			<name>Anal Club - Animation Pack</name>
 		</app>
 		<app>
 			<appid>5397810</appid>
@@ -1615143,8 +1616107,16 @@
 			<name>荒山诡宿 Demo</name>
 		</app>
 		<app>
+			<appid>5398310</appid>
+			<name>Sexpatch: Horny Capes - Soundtrack</name>
+		</app>
+		<app>
 			<appid>5398330</appid>
 			<name>Cosmicon Plague</name>
+		</app>
+		<app>
+			<appid>5398360</appid>
+			<name>Starship Duel | 星舰对决 Playtest</name>
 		</app>
 		<app>
 			<appid>5398370</appid>
@@ -1615269,6 +1616241,10 @@
 		<app>
 			<appid>5399050</appid>
 			<name>Desiderium Demo</name>
+		</app>
+		<app>
+			<appid>5399060</appid>
+			<name>Ink Card Adventure</name>
 		</app>
 		<app>
 			<appid>5399070</appid>
@@ -1615511,6 +1616487,10 @@
 			<name>Cropocalypse Demo</name>
 		</app>
 		<app>
+			<appid>5399940</appid>
+			<name>DITTORI Playtest</name>
+		</app>
+		<app>
 			<appid>5399960</appid>
 			<name>The Beaten Track Demo</name>
 		</app>
@@ -1615571,6 +1616551,10 @@
 			<name>Rolling Heights</name>
 		</app>
 		<app>
+			<appid>5400250</appid>
+			<name>Sunday Drive Au</name>
+		</app>
+		<app>
 			<appid>5400270</appid>
 			<name>Inquisitio</name>
 		</app>
@@ -1615617,6 +1616601,10 @@
 		<app>
 			<appid>5400510</appid>
 			<name>Backrooms Anomaly Project Demo</name>
+		</app>
+		<app>
+			<appid>5400520</appid>
+			<name>Our Little Cinema Demo</name>
 		</app>
 		<app>
 			<appid>5400530</appid>
@@ -1615733,6 +1616721,10 @@
 		<app>
 			<appid>5401090</appid>
 			<name>just volleyball Demo</name>
+		</app>
+		<app>
+			<appid>5401100</appid>
+			<name>Get The Artifact: Violent Incursion Demo</name>
 		</app>
 		<app>
 			<appid>5401120</appid>
@@ -1615997,6 +1616989,10 @@
 		<app>
 			<appid>5402420</appid>
 			<name>Bush League Baseball Demo</name>
+		</app>
+		<app>
+			<appid>5402440</appid>
+			<name>Lamplight Yard - Military Supply Line</name>
 		</app>
 		<app>
 			<appid>5402450</appid>
@@ -1616276,7 +1617272,7 @@
 		</app>
 		<app>
 			<appid>5403660</appid>
-			<name>Tactics Cartographer Demo</name>
+			<name>Pixel Cartographer Demo</name>
 		</app>
 		<app>
 			<appid>5403680</appid>
@@ -1616289,6 +1617285,10 @@
 		<app>
 			<appid>5403710</appid>
 			<name>ATK：画境小镇 Demo</name>
+		</app>
+		<app>
+			<appid>5403730</appid>
+			<name>DON'T</name>
 		</app>
 		<app>
 			<appid>5403760</appid>
@@ -1616309,6 +1617309,10 @@
 		<app>
 			<appid>5403820</appid>
 			<name>My Snake Likes Apples Demo</name>
+		</app>
+		<app>
+			<appid>5403830</appid>
+			<name>《最后的紫水仙》</name>
 		</app>
 		<app>
 			<appid>5403860</appid>
@@ -1616377,6 +1617381,10 @@
 		<app>
 			<appid>5404180</appid>
 			<name>OnlyFarms: Tidy Up Demo</name>
+		</app>
+		<app>
+			<appid>5404190</appid>
+			<name>Bomb Disposal</name>
 		</app>
 		<app>
 			<appid>5404210</appid>
@@ -1616481,6 +1617489,10 @@
 		<app>
 			<appid>5404790</appid>
 			<name>Outbreak Checkpoint Playtest</name>
+		</app>
+		<app>
+			<appid>5404820</appid>
+			<name>Strip Club Tycoon</name>
 		</app>
 		<app>
 			<appid>5404840</appid>
@@ -1616647,6 +1617659,10 @@
 			<name>ITEA: Tidy Up Furniture Store</name>
 		</app>
 		<app>
+			<appid>5405610</appid>
+			<name>Ai-Breakout</name>
+		</app>
+		<app>
 			<appid>5405620</appid>
 			<name>Terminal Outbreak</name>
 		</app>
@@ -1616691,6 +1617707,10 @@
 			<name>Avoid the Void Demo</name>
 		</app>
 		<app>
+			<appid>5405840</appid>
+			<name>Gregor's Tithe</name>
+		</app>
+		<app>
 			<appid>5405860</appid>
 			<name>方寸小家 RoomFolk Demo</name>
 		</app>
@@ -1616705,6 +1617725,10 @@
 		<app>
 			<appid>5405930</appid>
 			<name>Don't Serve Them</name>
+		</app>
+		<app>
+			<appid>5405940</appid>
+			<name>Rosaline: The Dragon Girl</name>
 		</app>
 		<app>
 			<appid>5405950</appid>
@@ -1616785,6 +1617809,10 @@
 		<app>
 			<appid>5406370</appid>
 			<name>Dark Harvest Demo</name>
+		</app>
+		<app>
+			<appid>5406380</appid>
+			<name>Suspended: The Unscheduled Stop</name>
 		</app>
 		<app>
 			<appid>5406390</appid>
@@ -1616951,6 +1617979,10 @@
 			<name>Cleanup Wizard Soundtrack</name>
 		</app>
 		<app>
+			<appid>5407110</appid>
+			<name>Hard To Get</name>
+		</app>
+		<app>
 			<appid>5407120</appid>
 			<name>Goat Survivor 2 Demo</name>
 		</app>
@@ -1617003,6 +1618035,10 @@
 			<name>All Machines Must Die Playtest</name>
 		</app>
 		<app>
+			<appid>5407340</appid>
+			<name>Thalassomania Demo</name>
+		</app>
+		<app>
 			<appid>5407400</appid>
 			<name>Grench Boss Demo</name>
 		</app>
@@ -1617013,6 +1618049,10 @@
 		<app>
 			<appid>5407430</appid>
 			<name>Fantasy Grounds - Advanced Races Compendium</name>
+		</app>
+		<app>
+			<appid>5407450</appid>
+			<name>SLAP</name>
 		</app>
 		<app>
 			<appid>5407480</appid>
@@ -1617029,6 +1618069,10 @@
 		<app>
 			<appid>5407520</appid>
 			<name>Peel The F*king Banana</name>
+		</app>
+		<app>
+			<appid>5407530</appid>
+			<name>My Dream Gym: Sandbox</name>
 		</app>
 		<app>
 			<appid>5407540</appid>
@@ -1617199,6 +1618243,10 @@
 			<name>Tsukuyomi's Wrath Playtest</name>
 		</app>
 		<app>
+			<appid>5408430</appid>
+			<name>Hold My Helmet: Moto Racing Crash Simulator</name>
+		</app>
+		<app>
 			<appid>5408440</appid>
 			<name>Fruit slicer Demo</name>
 		</app>
@@ -1617295,8 +1618343,16 @@
 			<name>Shorelands Playtest</name>
 		</app>
 		<app>
+			<appid>5408820</appid>
+			<name>Terminal Outbreak Playtest</name>
+		</app>
+		<app>
 			<appid>5408850</appid>
 			<name>Chaos of the Realms Demo</name>
+		</app>
+		<app>
+			<appid>5408870</appid>
+			<name>Overwitched</name>
 		</app>
 		<app>
 			<appid>5408900</appid>
@@ -1617313,6 +1618369,10 @@
 		<app>
 			<appid>5408940</appid>
 			<name>Crew Out</name>
+		</app>
+		<app>
+			<appid>5408960</appid>
+			<name>Save To Kill</name>
 		</app>
 		<app>
 			<appid>5408980</appid>
@@ -1617511,6 +1618571,10 @@
 			<name>One Million Skeletons Demo</name>
 		</app>
 		<app>
+			<appid>5409930</appid>
+			<name>Fighting Nations: The Iron Dragon Tournament</name>
+		</app>
+		<app>
 			<appid>5409960</appid>
 			<name>Haul Yeah! Demo</name>
 		</app>
@@ -1617567,6 +1618631,10 @@
 			<name>江南百味铺</name>
 		</app>
 		<app>
+			<appid>5410210</appid>
+			<name>All In: Reckoning Playtest</name>
+		</app>
+		<app>
 			<appid>5410220</appid>
 			<name>ANASTASIS</name>
 		</app>
@@ -1617589,6 +1618657,10 @@
 		<app>
 			<appid>5410290</appid>
 			<name>Desktop Party: An Idle Fantasy RPG</name>
+		</app>
+		<app>
+			<appid>5410350</appid>
+			<name>Down to Floor Zero Demo</name>
 		</app>
 		<app>
 			<appid>5410440</appid>
@@ -1617661,6 +1618733,10 @@
 		<app>
 			<appid>5410830</appid>
 			<name>잭팟 던전 Demo</name>
+		</app>
+		<app>
+			<appid>5410840</appid>
+			<name>潜梦者</name>
 		</app>
 		<app>
 			<appid>5410860</appid>
@@ -1618271,6 +1619347,10 @@
 			<name>Animetal Menagerie</name>
 		</app>
 		<app>
+			<appid>5414840</appid>
+			<name>Survivors' Hotel</name>
+		</app>
+		<app>
 			<appid>5414890</appid>
 			<name>ZdenalCity</name>
 		</app>
@@ -1618595,6 +1619675,10 @@
 			<name>Masyu: Line Logic</name>
 		</app>
 		<app>
+			<appid>5416670</appid>
+			<name>Isekai Reborn Girl Playtest</name>
+		</app>
+		<app>
 			<appid>5416690</appid>
 			<name>River Whisker</name>
 		</app>
@@ -1618693,6 +1619777,10 @@
 		<app>
 			<appid>5417250</appid>
 			<name>Llama and Lizard</name>
+		</app>
+		<app>
+			<appid>5417270</appid>
+			<name>Modern Frankenstein</name>
 		</app>
 		<app>
 			<appid>5417290</appid>
@@ -1618831,8 +1619919,16 @@
 			<name>After the Tone</name>
 		</app>
 		<app>
+			<appid>5418060</appid>
+			<name>She Hunts Playtest</name>
+		</app>
+		<app>
 			<appid>5418070</appid>
 			<name>Galactic Mayhem Demo</name>
+		</app>
+		<app>
+			<appid>5418090</appid>
+			<name>Mogilev: Apocalypse</name>
 		</app>
 		<app>
 			<appid>5418100</appid>
@@ -1618935,6 +1620031,14 @@
 			<name>盯着你！桌面喵小西 - 支持者美术设定集</name>
 		</app>
 		<app>
+			<appid>5418930</appid>
+			<name>Shark Bait Playtest</name>
+		</app>
+		<app>
+			<appid>5418940</appid>
+			<name>Morphic</name>
+		</app>
+		<app>
 			<appid>5418960</appid>
 			<name>Marschwerk: Tug of War Strategy Demo</name>
 		</app>
@@ -1619031,6 +1620135,10 @@
 			<name>INKBLOT</name>
 		</app>
 		<app>
+			<appid>5419530</appid>
+			<name>忍法连珠 Playtest</name>
+		</app>
+		<app>
 			<appid>5419560</appid>
 			<name>CENTAVO Demo</name>
 		</app>
@@ -1619057,6 +1620165,10 @@
 		<app>
 			<appid>5419640</appid>
 			<name>Desktop Space Battles Playtest</name>
+		</app>
+		<app>
+			<appid>5419700</appid>
+			<name>덤블링 던전 (TumblingDungeon)</name>
 		</app>
 		<app>
 			<appid>5419710</appid>
@@ -1619197,6 +1620309,10 @@
 		<app>
 			<appid>5420440</appid>
 			<name>The Wrong Village Demo</name>
+		</app>
+		<app>
+			<appid>5420470</appid>
+			<name>UNSTITCHED Demo</name>
 		</app>
 		<app>
 			<appid>5420500</appid>
@@ -1619483,6 +1620599,10 @@
 			<name>Clicker, Clicks Something Demo</name>
 		</app>
 		<app>
+			<appid>5422130</appid>
+			<name>Heretics Amulet Demo</name>
+		</app>
+		<app>
 			<appid>5422140</appid>
 			<name>The Peasants Are Coming!</name>
 		</app>
@@ -1619525,6 +1620645,10 @@
 		<app>
 			<appid>5422490</appid>
 			<name>Your Presence Is Delaying Progress Playtest</name>
+		</app>
+		<app>
+			<appid>5422500</appid>
+			<name>Who Howls?</name>
 		</app>
 		<app>
 			<appid>5422670</appid>
@@ -1619627,6 +1620751,14 @@
 			<name>Bat Flapper Demo</name>
 		</app>
 		<app>
+			<appid>5423310</appid>
+			<name>Pixel Sorter Factory Demo</name>
+		</app>
+		<app>
+			<appid>5423320</appid>
+			<name>疯狂世界超变</name>
+		</app>
+		<app>
 			<appid>5423350</appid>
 			<name>Wonder Critter Lab</name>
 		</app>
@@ -1619719,6 +1620851,10 @@
 			<name>TRAPPIST-1</name>
 		</app>
 		<app>
+			<appid>5423770</appid>
+			<name>Mogilev: Apocalypse Demo</name>
+		</app>
+		<app>
 			<appid>5423780</appid>
 			<name>跑灯魔王 Lamp Demon</name>
 		</app>
@@ -1619745,6 +1620881,10 @@
 		<app>
 			<appid>5423900</appid>
 			<name>Cashflow Empire</name>
+		</app>
+		<app>
+			<appid>5423910</appid>
+			<name>Cashflow Empire Demo</name>
 		</app>
 		<app>
 			<appid>5423940</appid>
@@ -1619839,6 +1620979,10 @@
 			<name>dark vacant lots</name>
 		</app>
 		<app>
+			<appid>5424500</appid>
+			<name>货与刀</name>
+		</app>
+		<app>
 			<appid>5424510</appid>
 			<name>記帳戦隊 Demo</name>
 		</app>
@@ -1619869,6 +1621013,10 @@
 		<app>
 			<appid>5424580</appid>
 			<name>President Club 27</name>
+		</app>
+		<app>
+			<appid>5424600</appid>
+			<name>Artificially Stupid Demo</name>
 		</app>
 		<app>
 			<appid>5424640</appid>
@@ -1619919,6 +1621067,10 @@
 			<name>Posthumors Soundtrack</name>
 		</app>
 		<app>
+			<appid>5424900</appid>
+			<name>What We Leave Behind Demo</name>
+		</app>
+		<app>
 			<appid>5424910</appid>
 			<name>The Silence the Woods Keep</name>
 		</app>
@@ -1619959,8 +1621111,16 @@
 			<name>Kill Loot Heal Repeat Demo</name>
 		</app>
 		<app>
+			<appid>5425110</appid>
+			<name>Left! Left! LEFT! Playtest</name>
+		</app>
+		<app>
 			<appid>5425120</appid>
 			<name>Evidence Vault Demo</name>
+		</app>
+		<app>
+			<appid>5425150</appid>
+			<name>What Da Font Demo</name>
 		</app>
 		<app>
 			<appid>5425200</appid>
@@ -1620005,6 +1621165,18 @@
 		<app>
 			<appid>5425420</appid>
 			<name>M·A·R·G·I·N</name>
+		</app>
+		<app>
+			<appid>5425440</appid>
+			<name>No Good Friends</name>
+		</app>
+		<app>
+			<appid>5425470</appid>
+			<name>跑灯魔王 Playtest</name>
+		</app>
+		<app>
+			<appid>5425480</appid>
+			<name>幸运闯魔城 Playtest</name>
 		</app>
 		<app>
 			<appid>5425490</appid>
@@ -1620073,6 +1621245,14 @@
 		<app>
 			<appid>5425730</appid>
 			<name>Mayhem TV Demo</name>
+		</app>
+		<app>
+			<appid>5425740</appid>
+			<name>New Hope</name>
+		</app>
+		<app>
+			<appid>5425760</appid>
+			<name>Survive in Spaceshit - THE REVERSAL Playtest</name>
 		</app>
 		<app>
 			<appid>5425800</appid>
@@ -1620219,6 +1621399,10 @@
 			<name>Tirade Demo</name>
 		</app>
 		<app>
+			<appid>5426670</appid>
+			<name>Swords and Cavalry Playtest</name>
+		</app>
+		<app>
 			<appid>5426680</appid>
 			<name>Houston, we have a zombie problem</name>
 		</app>
@@ -1620259,6 +1621443,10 @@
 			<name>SlimeMan</name>
 		</app>
 		<app>
+			<appid>5426860</appid>
+			<name>Elf World Adventure 14</name>
+		</app>
+		<app>
 			<appid>5426890</appid>
 			<name>A Spiritual Adventure Demo</name>
 		</app>
@@ -1620273,6 +1621461,10 @@
 		<app>
 			<appid>5426960</appid>
 			<name>Don't Splat</name>
+		</app>
+		<app>
+			<appid>5426970</appid>
+			<name>Mushroom Sweeper</name>
 		</app>
 		<app>
 			<appid>5427000</appid>
@@ -1620387,6 +1621579,10 @@
 			<name>Wanderhearth</name>
 		</app>
 		<app>
+			<appid>5427700</appid>
+			<name>Farmkill Remastered Demo</name>
+		</app>
+		<app>
 			<appid>5427720</appid>
 			<name>MilBox Playtest</name>
 		</app>
@@ -1620409,6 +1621605,10 @@
 		<app>
 			<appid>5427840</appid>
 			<name>Clutter Playtest</name>
+		</app>
+		<app>
+			<appid>5427870</appid>
+			<name>Luxarig</name>
 		</app>
 		<app>
 			<appid>5427900</appid>
@@ -1620451,6 +1621651,10 @@
 			<name>AlpineFall Playtest</name>
 		</app>
 		<app>
+			<appid>5428380</appid>
+			<name>Mamka Said</name>
+		</app>
+		<app>
 			<appid>5428400</appid>
 			<name>1001 Cats: Purrsian Nights Demo</name>
 		</app>
@@ -1620485,6 +1621689,10 @@
 		<app>
 			<appid>5428560</appid>
 			<name>Plushy Store Tidy Up - FREE character customization pack</name>
+		</app>
+		<app>
+			<appid>5428580</appid>
+			<name>The Death Deliriant Prologue</name>
 		</app>
 		<app>
 			<appid>5428610</appid>
@@ -1620529,6 +1621737,10 @@
 		<app>
 			<appid>5428750</appid>
 			<name>Threads &amp; Things: Tidy Up the Craft Shop!</name>
+		</app>
+		<app>
+			<appid>5428760</appid>
+			<name>Morrowvane</name>
 		</app>
 		<app>
 			<appid>5428800</appid>
@@ -1620775,6 +1621987,14 @@
 			<name>天命1600：东方 Demo</name>
 		</app>
 		<app>
+			<appid>5429770</appid>
+			<name>Eternity's End</name>
+		</app>
+		<app>
+			<appid>5429780</appid>
+			<name>Loki The Lynx Demo</name>
+		</app>
+		<app>
 			<appid>5429820</appid>
 			<name>Paper War Demo</name>
 		</app>
@@ -1620831,12 +1622051,20 @@
 			<name>Trophy Rex</name>
 		</app>
 		<app>
+			<appid>5430050</appid>
+			<name>Tiny Blast Key Playtest</name>
+		</app>
+		<app>
 			<appid>5430070</appid>
 			<name>Janusz Survivors - Wesele Apokalipsy</name>
 		</app>
 		<app>
 			<appid>5430120</appid>
 			<name>SpaceSim: Pale Blue Dot</name>
+		</app>
+		<app>
+			<appid>5430130</appid>
+			<name>Snow That Hums Demo</name>
 		</app>
 		<app>
 			<appid>5430150</appid>
@@ -1620903,6 +1622131,10 @@
 			<name>After the Tone Playtest</name>
 		</app>
 		<app>
+			<appid>5430440</appid>
+			<name>Prohibition Mafia</name>
+		</app>
+		<app>
 			<appid>5430510</appid>
 			<name>Abyssal Starfeast</name>
 		</app>
@@ -1620923,6 +1622155,10 @@
 			<name>Royal Triple Defense Demo</name>
 		</app>
 		<app>
+			<appid>5430580</appid>
+			<name>Titheborn Playtest</name>
+		</app>
+		<app>
 			<appid>5430590</appid>
 			<name>Fatespun</name>
 		</app>
@@ -1620933,6 +1622169,18 @@
 		<app>
 			<appid>5430620</appid>
 			<name>Sort My Loot</name>
+		</app>
+		<app>
+			<appid>5430630</appid>
+			<name>Dashvera HUD</name>
+		</app>
+		<app>
+			<appid>5430650</appid>
+			<name>Blunder Construction Playtest</name>
+		</app>
+		<app>
+			<appid>5430680</appid>
+			<name>Lapidary: Master Jeweler Playtest</name>
 		</app>
 		<app>
 			<appid>5430690</appid>
@@ -1621287,6 +1622535,10 @@
 			<name>The Gem Tab</name>
 		</app>
 		<app>
+			<appid>5432770</appid>
+			<name>Ocean Claw</name>
+		</app>
+		<app>
 			<appid>5432810</appid>
 			<name>Warder Demo</name>
 		</app>
@@ -1621317,6 +1622569,10 @@
 		<app>
 			<appid>5433020</appid>
 			<name>Hide IN SPACE</name>
+		</app>
+		<app>
+			<appid>5433060</appid>
+			<name>Phuket Paradise</name>
 		</app>
 		<app>
 			<appid>5433070</appid>
@@ -1621371,6 +1622627,10 @@
 			<name>Artificial Intrusion</name>
 		</app>
 		<app>
+			<appid>5433370</appid>
+			<name>The Backrealms</name>
+		</app>
+		<app>
 			<appid>5433390</appid>
 			<name>Tiny Paws, Big Shadows</name>
 		</app>
@@ -1621391,12 +1622651,20 @@
 			<name>Christmasing Around</name>
 		</app>
 		<app>
+			<appid>5433460</appid>
+			<name>Dodge This! Playtest</name>
+		</app>
+		<app>
 			<appid>5433470</appid>
 			<name>Drift Goblin</name>
 		</app>
 		<app>
 			<appid>5433480</appid>
 			<name>The Lords Next Door</name>
+		</app>
+		<app>
+			<appid>5433490</appid>
+			<name>Planet Pilot Demo</name>
 		</app>
 		<app>
 			<appid>5433530</appid>
@@ -1621475,6 +1622743,10 @@
 			<name>Along Came A Spider Demo</name>
 		</app>
 		<app>
+			<appid>5433960</appid>
+			<name>Panda Motion</name>
+		</app>
+		<app>
 			<appid>5433990</appid>
 			<name>Wakefolk</name>
 		</app>
@@ -1621495,6 +1622767,10 @@
 			<name>Evervolt Idle</name>
 		</app>
 		<app>
+			<appid>5434130</appid>
+			<name>Last Pirates: Die Together - Supporter Pack</name>
+		</app>
+		<app>
 			<appid>5434150</appid>
 			<name>Imperial Grace Soundtrack</name>
 		</app>
@@ -1621509,6 +1622785,10 @@
 		<app>
 			<appid>5434200</appid>
 			<name>TRIROAD</name>
+		</app>
+		<app>
+			<appid>5434240</appid>
+			<name>Glacis Playtest</name>
 		</app>
 		<app>
 			<appid>5434270</appid>
@@ -1621539,6 +1622819,14 @@
 			<name>Gnome Acres</name>
 		</app>
 		<app>
+			<appid>5434440</appid>
+			<name>World of Tanks: HEAT - Haunted Horizon Soundtrack</name>
+		</app>
+		<app>
+			<appid>5434470</appid>
+			<name>Wall Over</name>
+		</app>
+		<app>
 			<appid>5434510</appid>
 			<name>In Orbita</name>
 		</app>
@@ -1621563,6 +1622851,10 @@
 			<name>僕と彼の危険な同居生活 Demo</name>
 		</app>
 		<app>
+			<appid>5434600</appid>
+			<name>Strip Bubbles: Maidens of the Castle of Lust</name>
+		</app>
+		<app>
 			<appid>5434620</appid>
 			<name>Hall of Minds Demo</name>
 		</app>
@@ -1621584,7 +1622876,7 @@
 		</app>
 		<app>
 			<appid>5434830</appid>
-			<name>がむしゃらギルド-Scrappy Guild- Demo</name>
+			<name>Scrappy Guild Demo</name>
 		</app>
 		<app>
 			<appid>5434840</appid>
@@ -1621601,6 +1622893,10 @@
 		<app>
 			<appid>5434970</appid>
 			<name>Witch Collage</name>
+		</app>
+		<app>
+			<appid>5434990</appid>
+			<name>WildMars Playtest</name>
 		</app>
 		<app>
 			<appid>5435010</appid>
@@ -1621663,6 +1622959,10 @@
 			<name>竹书纪年：赵云别传</name>
 		</app>
 		<app>
+			<appid>5435340</appid>
+			<name>Coffee Under Fire Playtest</name>
+		</app>
+		<app>
 			<appid>5435360</appid>
 			<name>Candy Factory</name>
 		</app>
@@ -1621683,8 +1622983,16 @@
 			<name>Glissando</name>
 		</app>
 		<app>
+			<appid>5435630</appid>
+			<name>Hazelton Hollow</name>
+		</app>
+		<app>
 			<appid>5435650</appid>
 			<name>Humaning</name>
+		</app>
+		<app>
+			<appid>5435660</appid>
+			<name>Rice &amp;amp;amp; Ink Family Chronicle Demo</name>
 		</app>
 		<app>
 			<appid>5435670</appid>
@@ -1621705,6 +1623013,14 @@
 		<app>
 			<appid>5435770</appid>
 			<name>Tactical Squad Demo</name>
+		</app>
+		<app>
+			<appid>5435790</appid>
+			<name>Deal &amp; Deceit Playtest</name>
+		</app>
+		<app>
+			<appid>5435880</appid>
+			<name>VESTIGIO</name>
 		</app>
 		<app>
 			<appid>5435900</appid>
@@ -1621741,6 +1623057,10 @@
 		<app>
 			<appid>5436170</appid>
 			<name>REFLECT89 Demo</name>
+		</app>
+		<app>
+			<appid>5436180</appid>
+			<name>Sloppy Warfare</name>
 		</app>
 		<app>
 			<appid>5436190</appid>
@@ -1621919,6 +1623239,10 @@
 			<name>Dominions of War Demo</name>
 		</app>
 		<app>
+			<appid>5437190</appid>
+			<name>Bogey Blazers Playtest</name>
+		</app>
+		<app>
 			<appid>5437230</appid>
 			<name>Gambit Grid Demo</name>
 		</app>
@@ -1622051,8 +1623375,16 @@
 			<name>Nightmare Unleashed! Demo</name>
 		</app>
 		<app>
+			<appid>5438050</appid>
+			<name>Night Viewing</name>
+		</app>
+		<app>
 			<appid>5438100</appid>
 			<name>Football Rivals</name>
+		</app>
+		<app>
+			<appid>5438110</appid>
+			<name>Night Viewing Demo</name>
 		</app>
 		<app>
 			<appid>5438130</appid>
@@ -1622159,6 +1623491,10 @@
 			<name>Evercoil Demo</name>
 		</app>
 		<app>
+			<appid>5438620</appid>
+			<name>标记朋友</name>
+		</app>
+		<app>
 			<appid>5438650</appid>
 			<name>Born64 Demo</name>
 		</app>
@@ -1622199,6 +1623535,10 @@
 			<name>Wild Warlocks</name>
 		</app>
 		<app>
+			<appid>5439060</appid>
+			<name>Touhou Reversal Playtest</name>
+		</app>
+		<app>
 			<appid>5439070</appid>
 			<name>星尘拾荒手册</name>
 		</app>
@@ -1622237,6 +1623577,10 @@
 		<app>
 			<appid>5439280</appid>
 			<name>Shine Carpets Together</name>
+		</app>
+		<app>
+			<appid>5439340</appid>
+			<name>The Peasants Are Coming! Playtest</name>
 		</app>
 		<app>
 			<appid>5439360</appid>
@@ -1622423,6 +1623767,10 @@
 			<name>Quiver Story</name>
 		</app>
 		<app>
+			<appid>5440540</appid>
+			<name>Perfect Pitch Paddles</name>
+		</app>
+		<app>
 			<appid>5440560</appid>
 			<name>Dirtborn: Colony Rising</name>
 		</app>
@@ -1622469,6 +1623817,10 @@
 		<app>
 			<appid>5440800</appid>
 			<name>OMSI 2 Add-on O560 III Series</name>
+		</app>
+		<app>
+			<appid>5440820</appid>
+			<name>Scary Hot Dogs</name>
 		</app>
 		<app>
 			<appid>5440830</appid>
@@ -1622529,6 +1623881,10 @@
 		<app>
 			<appid>5441170</appid>
 			<name>The Chamber Demo</name>
+		</app>
+		<app>
+			<appid>5441230</appid>
+			<name>Afterharvest Playtest</name>
 		</app>
 		<app>
 			<appid>5441270</appid>
@@ -1622611,6 +1623967,10 @@
 			<name>Six Coins</name>
 		</app>
 		<app>
+			<appid>5441740</appid>
+			<name>Wonder Garden</name>
+		</app>
+		<app>
 			<appid>5441750</appid>
 			<name>Midnight Bakery</name>
 		</app>
@@ -1622625,6 +1623985,22 @@
 		<app>
 			<appid>5441830</appid>
 			<name>One Light Left</name>
+		</app>
+		<app>
+			<appid>5441840</appid>
+			<name>执笔人</name>
+		</app>
+		<app>
+			<appid>5441860</appid>
+			<name>School Grounds Survival</name>
+		</app>
+		<app>
+			<appid>5441870</appid>
+			<name>Triple Caution Playtest</name>
+		</app>
+		<app>
+			<appid>5441900</appid>
+			<name>Project Kinfield</name>
 		</app>
 		<app>
 			<appid>5441910</appid>
@@ -1622671,6 +1624047,10 @@
 			<name>Pizzarian: Tidy Up the Arcane Shop</name>
 		</app>
 		<app>
+			<appid>5442210</appid>
+			<name>Shadow Command Playtest</name>
+		</app>
+		<app>
 			<appid>5442220</appid>
 			<name>Bad Trip: NYC Demo</name>
 		</app>
@@ -1622701,6 +1624081,10 @@
 		<app>
 			<appid>5442520</appid>
 			<name>Blocade</name>
+		</app>
+		<app>
+			<appid>5442540</appid>
+			<name>Nights Out 3:33 Playtest</name>
 		</app>
 		<app>
 			<appid>5442550</appid>
@@ -1622749,6 +1624133,10 @@
 		<app>
 			<appid>5442850</appid>
 			<name>Dwarven Outpost Incremental Demo</name>
+		</app>
+		<app>
+			<appid>5442870</appid>
+			<name>Spellriggers: Unification Protocol</name>
 		</app>
 		<app>
 			<appid>5442940</appid>
@@ -1622803,6 +1624191,10 @@
 			<name>Ashen Testament</name>
 		</app>
 		<app>
+			<appid>5443370</appid>
+			<name>Neon Spire</name>
+		</app>
+		<app>
 			<appid>5443400</appid>
 			<name>Game Master: Full Toolkit</name>
 		</app>
@@ -1622855,6 +1624247,14 @@
 			<name>T.S.K Commander</name>
 		</app>
 		<app>
+			<appid>5443810</appid>
+			<name>BackBlast Playtest</name>
+		</app>
+		<app>
+			<appid>5443820</appid>
+			<name>GridPi: Defense 3014 Demo</name>
+		</app>
+		<app>
 			<appid>5443850</appid>
 			<name>No One Left To Die Demo</name>
 		</app>
@@ -1622875,6 +1624275,10 @@
 			<name>Ore Express Demo</name>
 		</app>
 		<app>
+			<appid>5444140</appid>
+			<name>浮空秘境：LoFi Demo</name>
+		</app>
+		<app>
 			<appid>5444150</appid>
 			<name>Eccentric Wander Demo</name>
 		</app>
@@ -1622883,12 +1624287,24 @@
 			<name>Fairy Keykeepers: Tidy Up Together</name>
 		</app>
 		<app>
+			<appid>5444180</appid>
+			<name>罪人铁匠铺</name>
+		</app>
+		<app>
 			<appid>5444210</appid>
 			<name>Moonblood Mountain Demo</name>
 		</app>
 		<app>
+			<appid>5444230</appid>
+			<name>Sealed Within</name>
+		</app>
+		<app>
 			<appid>5444250</appid>
 			<name>Bloody Handy</name>
+		</app>
+		<app>
+			<appid>5444310</appid>
+			<name>Seeds Of Survival</name>
 		</app>
 		<app>
 			<appid>5444350</appid>
@@ -1622939,6 +1624355,10 @@
 			<name>Magic Dragon Fantasy: Story Demo</name>
 		</app>
 		<app>
+			<appid>5444690</appid>
+			<name>Become Emperor 2! My Trillion Beauties Universe Empire</name>
+		</app>
+		<app>
 			<appid>5444730</appid>
 			<name>Desk Quest Demo</name>
 		</app>
@@ -1622953,6 +1624373,10 @@
 		<app>
 			<appid>5444800</appid>
 			<name>RETURN TO 1990 - Chapter 3: Empire</name>
+		</app>
+		<app>
+			<appid>5444870</appid>
+			<name>LiarGame : Canvas</name>
 		</app>
 		<app>
 			<appid>5444960</appid>
@@ -1622985,6 +1624409,10 @@
 		<app>
 			<appid>5445180</appid>
 			<name>Mochi Cats</name>
+		</app>
+		<app>
+			<appid>5445230</appid>
+			<name>Blockade Playtest</name>
 		</app>
 		<app>
 			<appid>5445260</appid>
@@ -1623067,6 +1624495,10 @@
 			<name>Vending Machine Simulator</name>
 		</app>
 		<app>
+			<appid>5445880</appid>
+			<name>Commander's Dilemma Playtest</name>
+		</app>
+		<app>
 			<appid>5445910</appid>
 			<name>Dash To Light</name>
 		</app>
@@ -1623083,6 +1624515,10 @@
 			<name>RailTerrain</name>
 		</app>
 		<app>
+			<appid>5446000</appid>
+			<name>RIMSTRIKE: Incremental Defense</name>
+		</app>
+		<app>
 			<appid>5446070</appid>
 			<name>Dear Gravity</name>
 		</app>
@@ -1623097,6 +1624533,10 @@
 		<app>
 			<appid>5446200</appid>
 			<name>A Game About Bees, Flowers and Vacuum</name>
+		</app>
+		<app>
+			<appid>5446220</appid>
+			<name>Parking Empire Simulator</name>
 		</app>
 		<app>
 			<appid>5446230</appid>
@@ -1623135,6 +1624575,10 @@
 			<name>Vroom Boom</name>
 		</app>
 		<app>
+			<appid>5446410</appid>
+			<name>Tikra Rida</name>
+		</app>
+		<app>
 			<appid>5446440</appid>
 			<name>Villa Anzuelo: El Biógrafo de Difuntos</name>
 		</app>
@@ -1623163,12 +1624607,24 @@
 			<name>Villa Anzuelo: El Biógrafo de Difuntos Demo</name>
 		</app>
 		<app>
+			<appid>5446620</appid>
+			<name>A Tiny Ghost Game Playtest</name>
+		</app>
+		<app>
 			<appid>5446660</appid>
 			<name>Clash Pandemic: Forest Hell</name>
 		</app>
 		<app>
+			<appid>5446670</appid>
+			<name>Zombies Aren't Real Playtest</name>
+		</app>
+		<app>
 			<appid>5446760</appid>
 			<name>Zeitnot Demo</name>
+		</app>
+		<app>
+			<appid>5446770</appid>
+			<name>Haunted Schoolbag Demo</name>
 		</app>
 		<app>
 			<appid>5446780</appid>
@@ -1623183,12 +1624639,20 @@
 			<name>Project BlackHour</name>
 		</app>
 		<app>
+			<appid>5446930</appid>
+			<name>Fine Dining Fraud Playtest</name>
+		</app>
+		<app>
 			<appid>5446970</appid>
 			<name>3000 Dishes Demo</name>
 		</app>
 		<app>
 			<appid>5446990</appid>
 			<name>Buster: Carrot Town Chronicles</name>
+		</app>
+		<app>
+			<appid>5447000</appid>
+			<name>Lucky Clover: 1 in 500,000 Demo</name>
 		</app>
 		<app>
 			<appid>5447010</appid>
@@ -1623213,6 +1624677,14 @@
 		<app>
 			<appid>5447080</appid>
 			<name>Counterplayed</name>
+		</app>
+		<app>
+			<appid>5447110</appid>
+			<name>The Good Stuff: Story of a True Hero Demo</name>
+		</app>
+		<app>
+			<appid>5447160</appid>
+			<name>Wonder Garden - Supporter Pack</name>
 		</app>
 		<app>
 			<appid>5447190</appid>
@@ -1623259,6 +1624731,10 @@
 			<name>Mimora : Garden</name>
 		</app>
 		<app>
+			<appid>5447490</appid>
+			<name>MOST ARE MINE</name>
+		</app>
+		<app>
 			<appid>5447530</appid>
 			<name>Life of Lynne</name>
 		</app>
@@ -1623295,12 +1624771,36 @@
 			<name>Pit Sluts: Bloodrun Demo</name>
 		</app>
 		<app>
+			<appid>5447890</appid>
+			<name>Puzzle Snakes Soundtrack</name>
+		</app>
+		<app>
+			<appid>5447900</appid>
+			<name>Puzzle Shrimps Soundtrack</name>
+		</app>
+		<app>
+			<appid>5447920</appid>
+			<name>Puzzle Scorpions Soundtrack</name>
+		</app>
+		<app>
+			<appid>5447930</appid>
+			<name>Puzzle Rivers Soundtrack</name>
+		</app>
+		<app>
+			<appid>5447940</appid>
+			<name>Puzzle Rain Soundtrack</name>
+		</app>
+		<app>
 			<appid>5448010</appid>
 			<name>The Gunner’s Campaign</name>
 		</app>
 		<app>
 			<appid>5448020</appid>
 			<name>The End of Magic</name>
+		</app>
+		<app>
+			<appid>5448030</appid>
+			<name>Tiny Worlds: 3D Nonograms Playtest</name>
 		</app>
 		<app>
 			<appid>5448060</appid>
@@ -1623375,6 +1624875,10 @@
 			<name>Plasma Protocol Demo</name>
 		</app>
 		<app>
+			<appid>5448780</appid>
+			<name>Still Not Dead Yet: The Demo</name>
+		</app>
+		<app>
 			<appid>5448800</appid>
 			<name>Mental State. Game One (Demo)</name>
 		</app>
@@ -1623399,8 +1624903,16 @@
 			<name>Godsever</name>
 		</app>
 		<app>
+			<appid>5448920</appid>
+			<name>Quantum Properties Demo</name>
+		</app>
+		<app>
 			<appid>5448940</appid>
 			<name>Liberate : escape game à deux</name>
+		</app>
+		<app>
+			<appid>5448950</appid>
+			<name>Sigilborne Playtest</name>
 		</app>
 		<app>
 			<appid>5448960</appid>
@@ -1623435,6 +1624947,10 @@
 			<name>Wall Eater</name>
 		</app>
 		<app>
+			<appid>5449240</appid>
+			<name>Solvane: The Iron Reach Playtest</name>
+		</app>
+		<app>
 			<appid>5449250</appid>
 			<name>Quadora</name>
 		</app>
@@ -1623447,12 +1624963,20 @@
 			<name>High Wizards</name>
 		</app>
 		<app>
+			<appid>5449370</appid>
+			<name>Luna Star Rancher</name>
+		</app>
+		<app>
 			<appid>5449430</appid>
 			<name>PUFF-N: Proto-Utility Flying Forager-Navigator</name>
 		</app>
 		<app>
 			<appid>5449440</appid>
 			<name>NO LIFE</name>
+		</app>
+		<app>
+			<appid>5449460</appid>
+			<name>Deadly Voyage Playtest</name>
 		</app>
 		<app>
 			<appid>5449530</appid>
@@ -1623465,6 +1624989,10 @@
 		<app>
 			<appid>5449590</appid>
 			<name>Caixa de Ronrons Demo</name>
+		</app>
+		<app>
+			<appid>5449620</appid>
+			<name>System Failure: Escape</name>
 		</app>
 		<app>
 			<appid>5449630</appid>
@@ -1623485,6 +1625013,10 @@
 		<app>
 			<appid>5449800</appid>
 			<name>World of Touhou</name>
+		</app>
+		<app>
+			<appid>5449810</appid>
+			<name>Mox Nox Demo</name>
 		</app>
 		<app>
 			<appid>5449820</appid>
@@ -1623525,6 +1625057,10 @@
 		<app>
 			<appid>5450050</appid>
 			<name>I Grew a Planet</name>
+		</app>
+		<app>
+			<appid>5450120</appid>
+			<name>Grimdark Neko</name>
 		</app>
 		<app>
 			<appid>5450130</appid>
@@ -1623591,6 +1625127,10 @@
 			<name>Escape the Walls</name>
 		</app>
 		<app>
+			<appid>5450570</appid>
+			<name>Cubic Mage Demo</name>
+		</app>
+		<app>
 			<appid>5450620</appid>
 			<name>かぼちゃのトロワ</name>
 		</app>
@@ -1623615,6 +1625155,10 @@
 			<name>Against Heroes Demo</name>
 		</app>
 		<app>
+			<appid>5450890</appid>
+			<name>Goblin Problem Playtest</name>
+		</app>
+		<app>
 			<appid>5450920</appid>
 			<name>Survivor of the Meow Kingdom Playtest</name>
 		</app>
@@ -1623631,12 +1625175,20 @@
 			<name>Сам Буку Пер</name>
 		</app>
 		<app>
+			<appid>5451020</appid>
+			<name>Gotching</name>
+		</app>
+		<app>
 			<appid>5451030</appid>
 			<name>Fast Taxi Driver</name>
 		</app>
 		<app>
 			<appid>5451040</appid>
 			<name>Band of Fortune</name>
+		</app>
+		<app>
+			<appid>5451070</appid>
+			<name>Punch Your Way Out</name>
 		</app>
 		<app>
 			<appid>5451090</appid>
@@ -1623655,6 +1625207,10 @@
 			<name>Sweet Kung Fu</name>
 		</app>
 		<app>
+			<appid>5451220</appid>
+			<name>Iron Curtain Call Demo</name>
+		</app>
+		<app>
 			<appid>5451230</appid>
 			<name>Frontier Planetfall</name>
 		</app>
@@ -1623671,8 +1625227,20 @@
 			<name>Jörmungandrs Journey</name>
 		</app>
 		<app>
+			<appid>5451340</appid>
+			<name>Monster Girl Clinic Soundtrack</name>
+		</app>
+		<app>
 			<appid>5451350</appid>
 			<name>Ducktective Bill Demo</name>
+		</app>
+		<app>
+			<appid>5451450</appid>
+			<name>樱华退魔录 Demo</name>
+		</app>
+		<app>
+			<appid>5451590</appid>
+			<name>Icaropolis Playtest</name>
 		</app>
 		<app>
 			<appid>5451670</appid>
@@ -1623729,6 +1625297,10 @@
 		<app>
 			<appid>5452160</appid>
 			<name>Grandpa's Garden Demo</name>
+		</app>
+		<app>
+			<appid>5452240</appid>
+			<name>空想心理戦防護課程</name>
 		</app>
 		<app>
 			<appid>5452300</appid>
@@ -1623839,8 +1625411,16 @@
 			<name>mirror</name>
 		</app>
 		<app>
+			<appid>5453010</appid>
+			<name>Dragon Cradle</name>
+		</app>
+		<app>
 			<appid>5453050</appid>
 			<name>しろを塗る Castle Paint Demo</name>
+		</app>
+		<app>
+			<appid>5453060</appid>
+			<name>Collec Playtest</name>
 		</app>
 		<app>
 			<appid>5453070</appid>
@@ -1623859,6 +1625439,14 @@
 			<name>Скитальцы Demo</name>
 		</app>
 		<app>
+			<appid>5453190</appid>
+			<name>Futaland Love of the Dead Soundtrack</name>
+		</app>
+		<app>
+			<appid>5453200</appid>
+			<name>Gloop: Liquid Physics Demo</name>
+		</app>
+		<app>
 			<appid>5453240</appid>
 			<name>Mai Petite Saigon</name>
 		</app>
@@ -1623867,12 +1625455,32 @@
 			<name>An Angel With Too Much Ammo</name>
 		</app>
 		<app>
+			<appid>5453290</appid>
+			<name>COLLEC — Collector's Edition</name>
+		</app>
+		<app>
+			<appid>5453300</appid>
+			<name>COLLEC — Patron</name>
+		</app>
+		<app>
+			<appid>5453310</appid>
+			<name>COLLEC — All nine worlds</name>
+		</app>
+		<app>
+			<appid>5453450</appid>
+			<name>Femboy Futa Monster Girls</name>
+		</app>
+		<app>
 			<appid>5453500</appid>
 			<name>Drifting Ark</name>
 		</app>
 		<app>
 			<appid>5453510</appid>
 			<name>DEGUL DEGUL 999 Demo</name>
+		</app>
+		<app>
+			<appid>5453550</appid>
+			<name>RuneGarden</name>
 		</app>
 		<app>
 			<appid>5453590</appid>
@@ -1623899,8 +1625507,56 @@
 			<name>Смерш: Охотник на волков Demo</name>
 		</app>
 		<app>
+			<appid>5453990</appid>
+			<name>Primordaeon Playtest</name>
+		</app>
+		<app>
+			<appid>5454090</appid>
+			<name>Alice: Defense</name>
+		</app>
+		<app>
+			<appid>5454110</appid>
+			<name>Puzzle Whales Artbook</name>
+		</app>
+		<app>
+			<appid>5454120</appid>
+			<name>Puzzle Water Flowers Artbook</name>
+		</app>
+		<app>
 			<appid>5454130</appid>
 			<name>Kingdom Chronicle: Ancient Saga Demo</name>
+		</app>
+		<app>
+			<appid>5454140</appid>
+			<name>Puzzle Sweets Artbook</name>
+		</app>
+		<app>
+			<appid>5454150</appid>
+			<name>Puzzle Stones Artbook</name>
+		</app>
+		<app>
+			<appid>5454160</appid>
+			<name>Puzzle Spiders Artbook</name>
+		</app>
+		<app>
+			<appid>5454170</appid>
+			<name>Puzzle Snakes Artbook</name>
+		</app>
+		<app>
+			<appid>5454180</appid>
+			<name>Puzzle Shrimps Artbook</name>
+		</app>
+		<app>
+			<appid>5454190</appid>
+			<name>Puzzle Sharks Artbook</name>
+		</app>
+		<app>
+			<appid>5454220</appid>
+			<name>Puzzle Rivers Artbook</name>
+		</app>
+		<app>
+			<appid>5454230</appid>
+			<name>Puzzle Rain Artbook</name>
 		</app>
 		<app>
 			<appid>5454340</appid>
@@ -1623933,6 +1625589,10 @@
 		<app>
 			<appid>5454600</appid>
 			<name>Heal Me Faster</name>
+		</app>
+		<app>
+			<appid>5454630</appid>
+			<name>Ballisticards Playtest</name>
 		</app>
 		<app>
 			<appid>5454700</appid>
@@ -1623979,6 +1625639,14 @@
 			<name>Slow Mowing</name>
 		</app>
 		<app>
+			<appid>5455150</appid>
+			<name>Life Warp</name>
+		</app>
+		<app>
+			<appid>5455170</appid>
+			<name>Candy Factory Demo</name>
+		</app>
+		<app>
 			<appid>5455240</appid>
 			<name>Godsever Demo</name>
 		</app>
@@ -1624023,12 +1625691,24 @@
 			<name>Bloomline</name>
 		</app>
 		<app>
+			<appid>5455420</appid>
+			<name>Infinite Supermarket Playtest</name>
+		</app>
+		<app>
+			<appid>5455430</appid>
+			<name>Let It Snow</name>
+		</app>
+		<app>
 			<appid>5455440</appid>
 			<name>Mercenary Charter</name>
 		</app>
 		<app>
 			<appid>5455450</appid>
 			<name>被困的芙瑞希雅 Demo</name>
+		</app>
+		<app>
+			<appid>5455460</appid>
+			<name>Backmare</name>
 		</app>
 		<app>
 			<appid>5455470</appid>
@@ -1624075,6 +1625755,10 @@
 			<name>Island Crusade</name>
 		</app>
 		<app>
+			<appid>5455740</appid>
+			<name>Coin Factory 2 Demo</name>
+		</app>
+		<app>
 			<appid>5455780</appid>
 			<name>Unknown Depths Demo</name>
 		</app>
@@ -1624111,6 +1625795,10 @@
 			<name>Brilliante Photo Viewer Demo</name>
 		</app>
 		<app>
+			<appid>5456090</appid>
+			<name>Anima Trium Demo</name>
+		</app>
+		<app>
 			<appid>5456110</appid>
 			<name>Skyreap Demo</name>
 		</app>
@@ -1624129,6 +1625817,10 @@
 		<app>
 			<appid>5456200</appid>
 			<name>Oasis Realms</name>
+		</app>
+		<app>
+			<appid>5456260</appid>
+			<name>Shade Of Streets Demo</name>
 		</app>
 		<app>
 			<appid>5456270</appid>
@@ -1624159,12 +1625851,16 @@
 			<name>Street Girls: Love Records</name>
 		</app>
 		<app>
+			<appid>5456380</appid>
+			<name>Alchemy Workshop</name>
+		</app>
+		<app>
 			<appid>5456400</appid>
 			<name>Enamelist: Tidy Up the Pin Collection Demo</name>
 		</app>
 		<app>
 			<appid>5456460</appid>
-			<name>Gwiro</name>
+			<name>GAEKGWI</name>
 		</app>
 		<app>
 			<appid>5456470</appid>
@@ -1624183,16 +1625879,36 @@
 			<name>Keyboard vs. Zombies</name>
 		</app>
 		<app>
+			<appid>5456600</appid>
+			<name>KEYSMASH</name>
+		</app>
+		<app>
+			<appid>5456670</appid>
+			<name>One Command Ahead Playtest</name>
+		</app>
+		<app>
 			<appid>5456690</appid>
 			<name>Wabi Is Late</name>
+		</app>
+		<app>
+			<appid>5456700</appid>
+			<name>온말 Playtest</name>
 		</app>
 		<app>
 			<appid>5456800</appid>
 			<name>Shimagurashi: Island Life</name>
 		</app>
 		<app>
+			<appid>5456810</appid>
+			<name>Little Extinctions</name>
+		</app>
+		<app>
 			<appid>5456840</appid>
 			<name>All in Place</name>
+		</app>
+		<app>
+			<appid>5456860</appid>
+			<name>Swords &amp; Sodas</name>
 		</app>
 		<app>
 			<appid>5456870</appid>
@@ -1624223,6 +1625939,14 @@
 			<name>Cleanup Gone Wrong</name>
 		</app>
 		<app>
+			<appid>5457010</appid>
+			<name>777 HERO ~The One Who Defies Time~</name>
+		</app>
+		<app>
+			<appid>5457130</appid>
+			<name>Pawn After Dark</name>
+		</app>
+		<app>
 			<appid>5457150</appid>
 			<name>Hopwood</name>
 		</app>
@@ -1624249,6 +1625973,10 @@
 		<app>
 			<appid>5457260</appid>
 			<name>Pandora Dungeon Logistics</name>
+		</app>
+		<app>
+			<appid>5457320</appid>
+			<name>Ashen Testament Demo</name>
 		</app>
 		<app>
 			<appid>5457390</appid>
@@ -1624279,6 +1626007,14 @@
 			<name>CrossWords</name>
 		</app>
 		<app>
+			<appid>5457700</appid>
+			<name>Tavern Aftermath Demo</name>
+		</app>
+		<app>
+			<appid>5457770</appid>
+			<name>Sauna Grudge Demo</name>
+		</app>
+		<app>
 			<appid>5457790</appid>
 			<name>The Fight Business</name>
 		</app>
@@ -1624289,6 +1626025,10 @@
 		<app>
 			<appid>5457880</appid>
 			<name>FEAT: Bridge &amp; Structure Engineering</name>
+		</app>
+		<app>
+			<appid>5457910</appid>
+			<name>Prehistoric toybox Demo</name>
 		</app>
 		<app>
 			<appid>5457920</appid>
@@ -1624331,8 +1626071,32 @@
 			<name>Taskbar Kingdom</name>
 		</app>
 		<app>
+			<appid>5458400</appid>
+			<name>PUNG!</name>
+		</app>
+		<app>
 			<appid>5458410</appid>
 			<name>Find the Four Leaf Clover</name>
+		</app>
+		<app>
+			<appid>5458470</appid>
+			<name>FIRE STATE - 众筹奖励</name>
+		</app>
+		<app>
+			<appid>5458480</appid>
+			<name>FIRE STATE - 众筹黄金版</name>
+		</app>
+		<app>
+			<appid>5458490</appid>
+			<name>FIRE STATE - 众筹豪华版</name>
+		</app>
+		<app>
+			<appid>5458500</appid>
+			<name>FIRE STATE - 众筹终极版</name>
+		</app>
+		<app>
+			<appid>5458510</appid>
+			<name>FIRE STATE - 众筹终极典藏版</name>
 		</app>
 		<app>
 			<appid>5458540</appid>
@@ -1624363,6 +1626127,10 @@
 			<name>Vigilantes of Torque</name>
 		</app>
 		<app>
+			<appid>5458920</appid>
+			<name>弥莎莉尔的救赎 Demo</name>
+		</app>
+		<app>
 			<appid>5458930</appid>
 			<name>Faunavera Valley</name>
 		</app>
@@ -1624373,6 +1626141,10 @@
 		<app>
 			<appid>5458970</appid>
 			<name>Travelling to Woolokii Demo</name>
+		</app>
+		<app>
+			<appid>5459010</appid>
+			<name>SonaCraft – Instrument Repair</name>
 		</app>
 		<app>
 			<appid>5459060</appid>
@@ -1624389,6 +1626161,10 @@
 		<app>
 			<appid>5459170</appid>
 			<name>Bustbound</name>
+		</app>
+		<app>
+			<appid>5459220</appid>
+			<name>ROKUMENSHU</name>
 		</app>
 		<app>
 			<appid>5459240</appid>
@@ -1624463,6 +1626239,10 @@
 			<name>EscapeFromSeoul Demo</name>
 		</app>
 		<app>
+			<appid>5460060</appid>
+			<name>Debriefed : Frontline Command</name>
+		</app>
+		<app>
 			<appid>5460080</appid>
 			<name>Poker</name>
 		</app>
@@ -1624473,6 +1626253,10 @@
 		<app>
 			<appid>5460140</appid>
 			<name>Collateral Glory</name>
+		</app>
+		<app>
+			<appid>5460160</appid>
+			<name>Hhoarde</name>
 		</app>
 		<app>
 			<appid>5460190</appid>
@@ -1624491,12 +1626275,20 @@
 			<name>Toss It</name>
 		</app>
 		<app>
+			<appid>5460250</appid>
+			<name>NO SUNRISE Demo</name>
+		</app>
+		<app>
 			<appid>5460270</appid>
 			<name>Tales of the Tanuki: Way of the Draw</name>
 		</app>
 		<app>
 			<appid>5460280</appid>
 			<name>Dungeon Defenders - Shaman Hero DLC</name>
+		</app>
+		<app>
+			<appid>5460320</appid>
+			<name>Flying Disc League</name>
 		</app>
 		<app>
 			<appid>5460340</appid>
@@ -1624507,8 +1626299,16 @@
 			<name>The Guildhall</name>
 		</app>
 		<app>
+			<appid>5460370</appid>
+			<name>Desktop Destruction</name>
+		</app>
+		<app>
 			<appid>5460380</appid>
 			<name>Earthframe Studio Demo</name>
+		</app>
+		<app>
+			<appid>5460390</appid>
+			<name>Miplet Plaza Demo</name>
 		</app>
 		<app>
 			<appid>5460410</appid>
@@ -1624519,12 +1626319,20 @@
 			<name>the taikon company</name>
 		</app>
 		<app>
+			<appid>5460460</appid>
+			<name>Realistic Battle Simulator</name>
+		</app>
+		<app>
 			<appid>5460490</appid>
 			<name>Misdealt Demo</name>
 		</app>
 		<app>
 			<appid>5460510</appid>
 			<name>Cozy Witch Store</name>
+		</app>
+		<app>
+			<appid>5460630</appid>
+			<name>Crash Protocol: The Wrong Directive</name>
 		</app>
 		<app>
 			<appid>5460640</appid>
@@ -1624541,6 +1626349,14 @@
 		<app>
 			<appid>5460740</appid>
 			<name>High Lance</name>
+		</app>
+		<app>
+			<appid>5460750</appid>
+			<name>Shield-Bearer Ben Demo</name>
+		</app>
+		<app>
+			<appid>5460770</appid>
+			<name>Echoes of Broken Realms Demo</name>
 		</app>
 		<app>
 			<appid>5460790</appid>
@@ -1624573,6 +1626389,10 @@
 		<app>
 			<appid>5461040</appid>
 			<name>Sensitive Football</name>
+		</app>
+		<app>
+			<appid>5461050</appid>
+			<name>Skull Siege</name>
 		</app>
 		<app>
 			<appid>5461060</appid>
@@ -1624623,8 +1626443,16 @@
 			<name>BazaarBorn</name>
 		</app>
 		<app>
+			<appid>5461500</appid>
+			<name>Football B-side</name>
+		</app>
+		<app>
 			<appid>5461530</appid>
 			<name>THE LAST STONE</name>
+		</app>
+		<app>
+			<appid>5461540</appid>
+			<name>Midnight Shop</name>
 		</app>
 		<app>
 			<appid>5461550</appid>
@@ -1624667,6 +1626495,10 @@
 			<name>Abyss Walker</name>
 		</app>
 		<app>
+			<appid>5461780</appid>
+			<name>Project BlackHour Demo</name>
+		</app>
+		<app>
 			<appid>5461790</appid>
 			<name>Paradise Court</name>
 		</app>
@@ -1624691,6 +1626523,10 @@
 			<name>Shameless Supreme</name>
 		</app>
 		<app>
+			<appid>5461880</appid>
+			<name>Voltform</name>
+		</app>
+		<app>
 			<appid>5461920</appid>
 			<name>VULTURE Demo</name>
 		</app>
@@ -1624707,12 +1626543,24 @@
 			<name>The Last Lantern - idle</name>
 		</app>
 		<app>
+			<appid>5462020</appid>
+			<name>Movimento</name>
+		</app>
+		<app>
 			<appid>5462030</appid>
 			<name>Game Master: Prison Escape</name>
 		</app>
 		<app>
+			<appid>5462060</appid>
+			<name>SheepTag: Dragons</name>
+		</app>
+		<app>
 			<appid>5462250</appid>
 			<name>Missile Simulator</name>
+		</app>
+		<app>
+			<appid>5462290</appid>
+			<name>Jack &amp; Snag</name>
 		</app>
 		<app>
 			<appid>5462320</appid>
@@ -1624735,8 +1626583,24 @@
 			<name>Puzzlozenge</name>
 		</app>
 		<app>
+			<appid>5462490</appid>
+			<name>Storage Flipper</name>
+		</app>
+		<app>
+			<appid>5462500</appid>
+			<name>Room on Earth</name>
+		</app>
+		<app>
 			<appid>5462510</appid>
 			<name>Spacel Demo</name>
+		</app>
+		<app>
+			<appid>5462520</appid>
+			<name>Voltform Demo</name>
+		</app>
+		<app>
+			<appid>5462530</appid>
+			<name>Nebulon Colony</name>
 		</app>
 		<app>
 			<appid>5462560</appid>
@@ -1624771,8 +1626635,16 @@
 			<name>Massive Army Battle</name>
 		</app>
 		<app>
+			<appid>5462820</appid>
+			<name>Massive Army Battle - Sandbox Pack</name>
+		</app>
+		<app>
 			<appid>5462840</appid>
 			<name>One Hop Further</name>
+		</app>
+		<app>
+			<appid>5462850</appid>
+			<name>无耻至上 Demo</name>
 		</app>
 		<app>
 			<appid>5462860</appid>
@@ -1624791,20 +1626663,48 @@
 			<name>Finistry</name>
 		</app>
 		<app>
+			<appid>5462970</appid>
+			<name>Agent Guild: World</name>
+		</app>
+		<app>
 			<appid>5463150</appid>
 			<name>忌質物管理局　第七保管室 Demo</name>
+		</app>
+		<app>
+			<appid>5463170</appid>
+			<name>Sky Motors: Flying Car Factory Demo</name>
+		</app>
+		<app>
+			<appid>5463210</appid>
+			<name>Paid Parking Simulator Demo</name>
 		</app>
 		<app>
 			<appid>5463220</appid>
 			<name>Animaly Bar: NO HUMANITY! Soundtrack</name>
 		</app>
 		<app>
+			<appid>5463350</appid>
+			<name>Hellobnb Simulator</name>
+		</app>
+		<app>
 			<appid>5463360</appid>
 			<name>AfterShift Demo</name>
 		</app>
 		<app>
+			<appid>5463380</appid>
+			<name>Deuce Agency 2027 Demo</name>
+		</app>
+		<app>
 			<appid>5463420</appid>
 			<name>Mafia: Blood &amp; Honor</name>
+		</app>
+		<app>
+			<appid>5463430</appid>
+			<name>Blood &amp; Ledger</name>
+		</app>
+		<app>
+			<appid>5463440</appid>
+			<name>Spellsmith</name>
 		</app>
 		<app>
 			<appid>5463560</appid>
@@ -1624823,6 +1626723,14 @@
 			<name>Brick Up</name>
 		</app>
 		<app>
+			<appid>5463680</appid>
+			<name>Path of Cultivation</name>
+		</app>
+		<app>
+			<appid>5463690</appid>
+			<name>THE MAZE WITHIN ME</name>
+		</app>
+		<app>
 			<appid>5463710</appid>
 			<name>Cards: Tidy Up!</name>
 		</app>
@@ -1624837,6 +1626745,10 @@
 		<app>
 			<appid>5463810</appid>
 			<name>Escape The Walls: Punch Escape</name>
+		</app>
+		<app>
+			<appid>5463890</appid>
+			<name>Ashe &amp; Granite</name>
 		</app>
 		<app>
 			<appid>5463920</appid>
@@ -1624887,8 +1626799,16 @@
 			<name>CHOCOLATETEER CHOCOLATE PINBALL PRALINES SYMPHONY</name>
 		</app>
 		<app>
+			<appid>5464270</appid>
+			<name>Star Fire</name>
+		</app>
+		<app>
 			<appid>5464320</appid>
 			<name>Crown Without a King</name>
+		</app>
+		<app>
+			<appid>5464360</appid>
+			<name>Hellobnb Simulator Demo</name>
 		</app>
 		<app>
 			<appid>5464380</appid>
@@ -1624897,6 +1626817,10 @@
 		<app>
 			<appid>5464440</appid>
 			<name>Wasn't Me!</name>
+		</app>
+		<app>
+			<appid>5464550</appid>
+			<name>Aderfall</name>
 		</app>
 		<app>
 			<appid>5464570</appid>
@@ -1624943,6 +1626867,10 @@
 			<name>Armoured Combat Demo</name>
 		</app>
 		<app>
+			<appid>5465020</appid>
+			<name>One More Shake Demo</name>
+		</app>
+		<app>
 			<appid>5465060</appid>
 			<name>Bio-Shooter</name>
 		</app>
@@ -1624963,6 +1626891,14 @@
 			<name>Townlet</name>
 		</app>
 		<app>
+			<appid>5465300</appid>
+			<name>Imperium Warbands Demo</name>
+		</app>
+		<app>
+			<appid>5465340</appid>
+			<name>Lianur: Shadows of the Divine Demo</name>
+		</app>
+		<app>
 			<appid>5465380</appid>
 			<name>STAMP DUTY: PAPERWORK ROGUELITE</name>
 		</app>
@@ -1624971,8 +1626907,16 @@
 			<name>Midnight Skull Boutique</name>
 		</app>
 		<app>
+			<appid>5465420</appid>
+			<name>Tidyspell Demo</name>
+		</app>
+		<app>
 			<appid>5465460</appid>
 			<name>Crossroads: Forgotten Paths Demo</name>
+		</app>
+		<app>
+			<appid>5465470</appid>
+			<name>Court Vision Demo</name>
 		</app>
 		<app>
 			<appid>5465500</appid>
@@ -1625013,6 +1626957,10 @@
 		<app>
 			<appid>5465890</appid>
 			<name>Just Hearts</name>
+		</app>
+		<app>
+			<appid>5465930</appid>
+			<name>Mr. StoryTeller Demo</name>
 		</app>
 		<app>
 			<appid>5465970</appid>
@@ -1625059,6 +1627007,10 @@
 			<name>Leftovers: Last Fridge Standing</name>
 		</app>
 		<app>
+			<appid>5466340</appid>
+			<name>ぱちぱちタイピング Demo</name>
+		</app>
+		<app>
 			<appid>5466350</appid>
 			<name>Shift 233</name>
 		</app>
@@ -1625079,6 +1627031,10 @@
 			<name>Hazzard Hearth: Extra Choices</name>
 		</app>
 		<app>
+			<appid>5466560</appid>
+			<name>Foundation Footy: Rugby League</name>
+		</app>
+		<app>
 			<appid>5466600</appid>
 			<name>Baseball Life - Career Sim</name>
 		</app>
@@ -1625095,8 +1627051,20 @@
 			<name>Crosstalk: The Bloat and Greed Edition</name>
 		</app>
 		<app>
+			<appid>5466760</appid>
+			<name>D6scend Demo</name>
+		</app>
+		<app>
 			<appid>5466860</appid>
 			<name>A Cat Lived Here Demo</name>
+		</app>
+		<app>
+			<appid>5466870</appid>
+			<name>Dark And Me</name>
+		</app>
+		<app>
+			<appid>5466880</appid>
+			<name>Punch Your Way Out Demo</name>
 		</app>
 		<app>
 			<appid>5466950</appid>
@@ -1625115,6 +1627083,18 @@
 			<name>强化之王</name>
 		</app>
 		<app>
+			<appid>5467160</appid>
+			<name>Dark And Me Demo</name>
+		</app>
+		<app>
+			<appid>5467170</appid>
+			<name>Long March: 25000 Li</name>
+		</app>
+		<app>
+			<appid>5467180</appid>
+			<name>Ludus Magna Demo</name>
+		</app>
+		<app>
 			<appid>5467260</appid>
 			<name>Matchday: Player Career Demo</name>
 		</app>
@@ -1625125,6 +1627105,10 @@
 		<app>
 			<appid>5467300</appid>
 			<name>Femboy &amp;amp;amp; Futa: Stay a Little Longer Demo</name>
+		</app>
+		<app>
+			<appid>5467310</appid>
+			<name>Decks of Valor: Fantasy Card Battles</name>
 		</app>
 		<app>
 			<appid>5467350</appid>
@@ -1625141,6 +1627125,10 @@
 		<app>
 			<appid>5467480</appid>
 			<name>The Cat Protocol</name>
+		</app>
+		<app>
+			<appid>5467510</appid>
+			<name>Towers of Ruin</name>
 		</app>
 		<app>
 			<appid>5467540</appid>
@@ -1625167,8 +1627155,20 @@
 			<name>We Are The Horde Demo</name>
 		</app>
 		<app>
+			<appid>5467840</appid>
+			<name>Clay Rumble</name>
+		</app>
+		<app>
 			<appid>5467850</appid>
 			<name>Worlds in Orbit</name>
+		</app>
+		<app>
+			<appid>5467860</appid>
+			<name>TechStoreSimulator</name>
+		</app>
+		<app>
+			<appid>5467880</appid>
+			<name>FrankenCars</name>
 		</app>
 		<app>
 			<appid>5467890</appid>
@@ -1625195,6 +1627195,14 @@
 			<name>Unclean Hands</name>
 		</app>
 		<app>
+			<appid>5468140</appid>
+			<name>Voxmons</name>
+		</app>
+		<app>
+			<appid>5468560</appid>
+			<name>The Last Glimmer</name>
+		</app>
+		<app>
 			<appid>5468610</appid>
 			<name>BLOWHOLE</name>
 		</app>
@@ -1625209,6 +1627217,18 @@
 		<app>
 			<appid>5468790</appid>
 			<name>The Hollow Crown</name>
+		</app>
+		<app>
+			<appid>5468850</appid>
+			<name>Chess Gone Wild</name>
+		</app>
+		<app>
+			<appid>5468900</appid>
+			<name>GeoChaos Rumble</name>
+		</app>
+		<app>
+			<appid>5468950</appid>
+			<name>爆弾解体 Demo</name>
 		</app>
 		<app>
 			<appid>5469010</appid>
@@ -1625243,6 +1627263,10 @@
 			<name>Eggsecution Squad Demo</name>
 		</app>
 		<app>
+			<appid>5469410</appid>
+			<name>KEYCERTO</name>
+		</app>
+		<app>
 			<appid>5469440</appid>
 			<name>Legends Reloaded Demo</name>
 		</app>
@@ -1625271,12 +1627295,44 @@
 			<name>A Day with Wuki Demo</name>
 		</app>
 		<app>
+			<appid>5469830</appid>
+			<name>Diamond District: Jewelry Shop Simulator</name>
+		</app>
+		<app>
 			<appid>5469840</appid>
 			<name>Kinetile</name>
 		</app>
 		<app>
+			<appid>5469860</appid>
+			<name>VTuber Forge</name>
+		</app>
+		<app>
+			<appid>5469940</appid>
+			<name>Pawn Shop Together</name>
+		</app>
+		<app>
+			<appid>5469960</appid>
+			<name>DUNSPIN Demo</name>
+		</app>
+		<app>
 			<appid>5469970</appid>
 			<name>My Hockey Story</name>
+		</app>
+		<app>
+			<appid>5469980</appid>
+			<name>Bulwark</name>
+		</app>
+		<app>
+			<appid>5470000</appid>
+			<name>Starwinder</name>
+		</app>
+		<app>
+			<appid>5470040</appid>
+			<name>Saikei: A Zen Water Garden</name>
+		</app>
+		<app>
+			<appid>5470090</appid>
+			<name>Cricket Management Tycoon Demo</name>
 		</app>
 		<app>
 			<appid>5470240</appid>
@@ -1625295,8 +1627351,20 @@
 			<name>Toddler Simulator Soundtrack</name>
 		</app>
 		<app>
+			<appid>5470420</appid>
+			<name>Brasil Assombrado: Arquivo 01 Demo</name>
+		</app>
+		<app>
+			<appid>5470470</appid>
+			<name>GUNS ON VACATION</name>
+		</app>
+		<app>
 			<appid>5470500</appid>
 			<name>S.O.I.: Sphere of Influence Demo</name>
+		</app>
+		<app>
+			<appid>5470550</appid>
+			<name>Ruby's Trick or Treat</name>
 		</app>
 		<app>
 			<appid>5470560</appid>
@@ -1625343,12 +1627411,24 @@
 			<name>Ragnarok - Rise of the Nine Realms</name>
 		</app>
 		<app>
+			<appid>5471210</appid>
+			<name>Pickleball Pro</name>
+		</app>
+		<app>
 			<appid>5471250</appid>
 			<name>ODD HAUL</name>
 		</app>
 		<app>
 			<appid>5471290</appid>
 			<name>Kifu Garden</name>
+		</app>
+		<app>
+			<appid>5471300</appid>
+			<name>Ink And Table</name>
+		</app>
+		<app>
+			<appid>5471370</appid>
+			<name>Stack Stack Meow</name>
 		</app>
 		<app>
 			<appid>5471570</appid>
@@ -1625363,8 +1627443,20 @@
 			<name>Tessera Start Menu</name>
 		</app>
 		<app>
+			<appid>5471760</appid>
+			<name>Museum Keepers</name>
+		</app>
+		<app>
 			<appid>5471790</appid>
 			<name>Настоящие пазлы - Монстры</name>
+		</app>
+		<app>
+			<appid>5471820</appid>
+			<name>Prison Anomaly - Supporter Pack</name>
+		</app>
+		<app>
+			<appid>5471960</appid>
+			<name>UNOBSERVED</name>
 		</app>
 		<app>
 			<appid>5471980</appid>
@@ -1625415,6 +1627507,10 @@
 			<name>Retro Coder 2000 Demo</name>
 		</app>
 		<app>
+			<appid>5472490</appid>
+			<name>The Department of Traffic Safety Simulator</name>
+		</app>
+		<app>
 			<appid>5472530</appid>
 			<name>Big Fox Family Time</name>
 		</app>
@@ -1625431,6 +1627527,10 @@
 			<name>Roulette Incremental Demo</name>
 		</app>
 		<app>
+			<appid>5472780</appid>
+			<name>Unique Sword</name>
+		</app>
+		<app>
 			<appid>5472800</appid>
 			<name>Throne Digger</name>
 		</app>
@@ -1625441,6 +1627541,10 @@
 		<app>
 			<appid>5472850</appid>
 			<name>Vendilooper - original</name>
+		</app>
+		<app>
+			<appid>5472940</appid>
+			<name>GRAVESHIFT</name>
 		</app>
 		<app>
 			<appid>5473010</appid>
@@ -1625455,8 +1627559,28 @@
 			<name>GodWright Demo</name>
 		</app>
 		<app>
+			<appid>5473160</appid>
+			<name>Facial Expression Variety Show</name>
+		</app>
+		<app>
 			<appid>5473190</appid>
 			<name>Fishy Ring</name>
+		</app>
+		<app>
+			<appid>5473270</appid>
+			<name>Diamond District: Jewelry Shop Simulator Demo</name>
+		</app>
+		<app>
+			<appid>5473320</appid>
+			<name>Detective Club</name>
+		</app>
+		<app>
+			<appid>5473330</appid>
+			<name>Detective Club: The First Casebook</name>
+		</app>
+		<app>
+			<appid>5473350</appid>
+			<name>VoxelMine</name>
 		</app>
 		<app>
 			<appid>5473370</appid>
@@ -1625511,6 +1627635,14 @@
 			<name>Aeyon Kids</name>
 		</app>
 		<app>
+			<appid>5473830</appid>
+			<name>敲叽</name>
+		</app>
+		<app>
+			<appid>5473860</appid>
+			<name>Guest or Ghost</name>
+		</app>
+		<app>
 			<appid>5473910</appid>
 			<name>Space Hamsters</name>
 		</app>
@@ -1625535,12 +1627667,32 @@
 			<name>戎机 (Afar To War) Demo</name>
 		</app>
 		<app>
+			<appid>5474170</appid>
+			<name>Punch Through</name>
+		</app>
+		<app>
+			<appid>5474360</appid>
+			<name>Shelf Therapy</name>
+		</app>
+		<app>
+			<appid>5474370</appid>
+			<name>A girl was singing in the church choir…</name>
+		</app>
+		<app>
 			<appid>5474450</appid>
 			<name>Roll to Hell Demo</name>
 		</app>
 		<app>
+			<appid>5474460</appid>
+			<name>Tripartite: Magical Engineering</name>
+		</app>
+		<app>
 			<appid>5474470</appid>
 			<name>Commando Squad Demo</name>
+		</app>
+		<app>
+			<appid>5474480</appid>
+			<name>FMV - Full Motion Voyeur Demo</name>
 		</app>
 		<app>
 			<appid>5474490</appid>
@@ -1625555,12 +1627707,28 @@
 			<name>Halloween: Tidy Up</name>
 		</app>
 		<app>
+			<appid>5474670</appid>
+			<name>Wild West Canyon Demo</name>
+		</app>
+		<app>
+			<appid>5474800</appid>
+			<name>VoxelMine Demo</name>
+		</app>
+		<app>
+			<appid>5474840</appid>
+			<name>PalmiVelle</name>
+		</app>
+		<app>
 			<appid>5474890</appid>
 			<name>Cultist: The Ritual  Demo</name>
 		</app>
 		<app>
 			<appid>5474900</appid>
 			<name>Chick-Chat</name>
+		</app>
+		<app>
+			<appid>5474930</appid>
+			<name>Paladin HC Demo</name>
 		</app>
 		<app>
 			<appid>5474950</appid>
@@ -1625575,6 +1627743,10 @@
 			<name>Friendly Fire Club Demo</name>
 		</app>
 		<app>
+			<appid>5475000</appid>
+			<name>Doomigos</name>
+		</app>
+		<app>
 			<appid>5475030</appid>
 			<name>Wrestle Bounce Online</name>
 		</app>
@@ -1625583,8 +1627755,20 @@
 			<name>Idle of the Dead Demo</name>
 		</app>
 		<app>
+			<appid>5475220</appid>
+			<name>What do you see, Nell?</name>
+		</app>
+		<app>
+			<appid>5475240</appid>
+			<name>RIFTGROVE</name>
+		</app>
+		<app>
 			<appid>5475310</appid>
 			<name>Map: Istanbul</name>
+		</app>
+		<app>
+			<appid>5475330</appid>
+			<name>That Killing Fog</name>
 		</app>
 		<app>
 			<appid>5475370</appid>
@@ -1625603,6 +1627787,18 @@
 			<name>Ember of Uruk Demo</name>
 		</app>
 		<app>
+			<appid>5475630</appid>
+			<name>IRON SOL Soundtrack</name>
+		</app>
+		<app>
+			<appid>5475640</appid>
+			<name>Know Your Anima Soundtrack</name>
+		</app>
+		<app>
+			<appid>5475680</appid>
+			<name>Fish Island Restaurant Simulator Together</name>
+		</app>
+		<app>
 			<appid>5475700</appid>
 			<name>Gonggi: Recess</name>
 		</app>
@@ -1625613,6 +1627809,10 @@
 		<app>
 			<appid>5475750</appid>
 			<name>Pizza Pinball</name>
+		</app>
+		<app>
+			<appid>5475770</appid>
+			<name>OneBody: Together Demo</name>
 		</app>
 		<app>
 			<appid>5475830</appid>
@@ -1625627,6 +1627827,10 @@
 			<name>Dave Premium</name>
 		</app>
 		<app>
+			<appid>5475920</appid>
+			<name>Abysses: Meridian</name>
+		</app>
+		<app>
 			<appid>5475960</appid>
 			<name>Incremental Traffic</name>
 		</app>
@@ -1625637,6 +1627841,10 @@
 		<app>
 			<appid>5476040</appid>
 			<name>Gilded Shoals</name>
+		</app>
+		<app>
+			<appid>5476120</appid>
+			<name>Cruisopolis: Cruise Line Tycoon</name>
 		</app>
 		<app>
 			<appid>5476210</appid>
@@ -1625663,12 +1627871,28 @@
 			<name>Somebody's Home: The Boarding House Demo</name>
 		</app>
 		<app>
+			<appid>5476580</appid>
+			<name>Just Be Alive</name>
+		</app>
+		<app>
 			<appid>5476600</appid>
 			<name>SVAKA: Lost Legends Demo</name>
 		</app>
 		<app>
+			<appid>5476670</appid>
+			<name>Fuji Flip Demo</name>
+		</app>
+		<app>
 			<appid>5476690</appid>
 			<name>Forgotten Tactics</name>
+		</app>
+		<app>
+			<appid>5476770</appid>
+			<name>Armed Prisoner III</name>
+		</app>
+		<app>
+			<appid>5476810</appid>
+			<name>漢字でポン! ネコ太郎の合体漢字シミュレータ</name>
 		</app>
 		<app>
 			<appid>5476840</appid>
@@ -1625699,6 +1627923,14 @@
 			<name>No bugs shall pass</name>
 		</app>
 		<app>
+			<appid>5477100</appid>
+			<name>Sumverse Demo</name>
+		</app>
+		<app>
+			<appid>5477140</appid>
+			<name>Stray Cloud: An Overcast Story</name>
+		</app>
+		<app>
 			<appid>5477170</appid>
 			<name>Homo Forensis</name>
 		</app>
@@ -1625727,6 +1627959,10 @@
 			<name>Paragra: Paragliding Adventure</name>
 		</app>
 		<app>
+			<appid>5477710</appid>
+			<name>Sweet Manor</name>
+		</app>
+		<app>
 			<appid>5477810</appid>
 			<name>Legio Impera</name>
 		</app>
@@ -1625743,8 +1627979,20 @@
 			<name>The Somnus Fracture</name>
 		</app>
 		<app>
+			<appid>5478030</appid>
+			<name>Sleighline</name>
+		</app>
+		<app>
+			<appid>5478070</appid>
+			<name>World Estate</name>
+		</app>
+		<app>
 			<appid>5478080</appid>
 			<name>STRIKERS PRO LEAGUE</name>
+		</app>
+		<app>
+			<appid>5478090</appid>
+			<name>Pawn Shop Days</name>
 		</app>
 		<app>
 			<appid>5478130</appid>
@@ -1625763,6 +1628011,10 @@
 			<name>少女军团 Demo</name>
 		</app>
 		<app>
+			<appid>5478320</appid>
+			<name>FrameAdapt</name>
+		</app>
+		<app>
 			<appid>5478550</appid>
 			<name>Fall of Rome Pinball</name>
 		</app>
@@ -1625771,8 +1628023,16 @@
 			<name>First Person Basketball</name>
 		</app>
 		<app>
+			<appid>5478630</appid>
+			<name>Meal Quest Demo</name>
+		</app>
+		<app>
 			<appid>5478680</appid>
 			<name>Pixel Pause: Color by Number</name>
+		</app>
+		<app>
+			<appid>5478700</appid>
+			<name>Online Poly</name>
 		</app>
 		<app>
 			<appid>5478870</appid>
@@ -1625795,6 +1628055,18 @@
 			<name>Share Before They Delete</name>
 		</app>
 		<app>
+			<appid>5479300</appid>
+			<name>The Ash Remembers – Hero Background: The Burning Cathedral</name>
+		</app>
+		<app>
+			<appid>5479310</appid>
+			<name>The Ash Remembers – Hero Background: The Ashen Fields</name>
+		</app>
+		<app>
+			<appid>5479320</appid>
+			<name>The Ash Remembers – Hero Background: The Ember Forge</name>
+		</app>
+		<app>
 			<appid>5479330</appid>
 			<name>X-Force Genesis 2</name>
 		</app>
@@ -1625807,8 +1628079,24 @@
 			<name>Star Replica Demo</name>
 		</app>
 		<app>
+			<appid>5479600</appid>
+			<name>Black Death: Russia</name>
+		</app>
+		<app>
+			<appid>5479630</appid>
+			<name>One More Rock</name>
+		</app>
+		<app>
+			<appid>5479830</appid>
+			<name>PUZFLO: Run the Line Demo</name>
+		</app>
+		<app>
 			<appid>5479840</appid>
 			<name>Village in Bloom</name>
+		</app>
+		<app>
+			<appid>5479930</appid>
+			<name>PixelPup Town</name>
 		</app>
 		<app>
 			<appid>5479990</appid>
@@ -1625835,6 +1628123,10 @@
 			<name>Laila's Arcane Quarry</name>
 		</app>
 		<app>
+			<appid>5480490</appid>
+			<name>Assassination Contracts</name>
+		</app>
+		<app>
 			<appid>5480500</appid>
 			<name>Orbital Madness - SUPPORT PACK</name>
 		</app>
@@ -1625855,6 +1628147,10 @@
 			<name>Glass Garage Simulator</name>
 		</app>
 		<app>
+			<appid>5480680</appid>
+			<name>Hearth of the Deep</name>
+		</app>
+		<app>
 			<appid>5480690</appid>
 			<name>Nessi</name>
 		</app>
@@ -1625865,6 +1628161,22 @@
 		<app>
 			<appid>5480870</appid>
 			<name>Glissando Demo</name>
+		</app>
+		<app>
+			<appid>5480880</appid>
+			<name>Have You Seen</name>
+		</app>
+		<app>
+			<appid>5480890</appid>
+			<name>Mayday Airways Demo</name>
+		</app>
+		<app>
+			<appid>5480960</appid>
+			<name>Grave Ambition</name>
+		</app>
+		<app>
+			<appid>5481000</appid>
+			<name>Welcome To HillVeil Soundtrack</name>
 		</app>
 		<app>
 			<appid>5481010</appid>
@@ -1625879,6 +1628191,10 @@
 			<name>Burger Truck</name>
 		</app>
 		<app>
+			<appid>5481190</appid>
+			<name>Burger Truck Demo</name>
+		</app>
+		<app>
 			<appid>5481320</appid>
 			<name>We Are The Survivors Demo</name>
 		</app>
@@ -1625887,8 +1628203,20 @@
 			<name>Spirit Tide</name>
 		</app>
 		<app>
+			<appid>5481430</appid>
+			<name>Growing Rogue</name>
+		</app>
+		<app>
 			<appid>5481520</appid>
 			<name>Brawling Sailors Pinball</name>
+		</app>
+		<app>
+			<appid>5481550</appid>
+			<name>Circuits: VLSI</name>
+		</app>
+		<app>
+			<appid>5481570</appid>
+			<name>Circuits: VLSI Demo</name>
 		</app>
 		<app>
 			<appid>5481740</appid>
@@ -1625899,8 +1628227,16 @@
 			<name>Spaceship Wars Together</name>
 		</app>
 		<app>
+			<appid>5481990</appid>
+			<name>RESTAURANTS A Culinary Adventure Pinball</name>
+		</app>
+		<app>
 			<appid>5482020</appid>
 			<name>Blood Soil</name>
+		</app>
+		<app>
+			<appid>5482080</appid>
+			<name>my keyboard home!</name>
 		</app>
 		<app>
 			<appid>5482120</appid>
@@ -1625917,6 +1628253,10 @@
 		<app>
 			<appid>5482360</appid>
 			<name>JUNK//GOD</name>
+		</app>
+		<app>
+			<appid>5482440</appid>
+			<name>Asteria 4X</name>
 		</app>
 		<app>
 			<appid>5482540</appid>
@@ -1625939,12 +1628279,28 @@
 			<name>セレナの錬金生活</name>
 		</app>
 		<app>
+			<appid>5483510</appid>
+			<name>SqueeGee: Window Cleaning Simulator Demo</name>
+		</app>
+		<app>
+			<appid>5483560</appid>
+			<name>Monster Cove</name>
+		</app>
+		<app>
 			<appid>5483630</appid>
 			<name>Marchling Idle</name>
 		</app>
 		<app>
 			<appid>5483650</appid>
 			<name>The Perfect Part</name>
+		</app>
+		<app>
+			<appid>5483960</appid>
+			<name>One Tank Trip</name>
+		</app>
+		<app>
+			<appid>5483980</appid>
+			<name>Pizza Empire - Supporter Pack</name>
 		</app>
 		<app>
 			<appid>5484060</appid>
@@ -1625983,12 +1628339,32 @@
 			<name>Metzger Manager Demo</name>
 		</app>
 		<app>
+			<appid>5484860</appid>
+			<name>LeechWire 2003</name>
+		</app>
+		<app>
 			<appid>5484940</appid>
 			<name>World League Football</name>
 		</app>
 		<app>
+			<appid>5484960</appid>
+			<name>NAGERU or NADERU</name>
+		</app>
+		<app>
+			<appid>5485050</appid>
+			<name>Wheatstead</name>
+		</app>
+		<app>
 			<appid>5485190</appid>
 			<name>Lanterns &amp; Pacts</name>
+		</app>
+		<app>
+			<appid>5485270</appid>
+			<name>Grinny's Night Shift</name>
+		</app>
+		<app>
+			<appid>5485290</appid>
+			<name>Legion Was Here Soundtrack</name>
 		</app>
 		<app>
 			<appid>5485300</appid>
@@ -1626003,20 +1628379,56 @@
 			<name>Carpoli - Car Board Game Demo</name>
 		</app>
 		<app>
+			<appid>5485550</appid>
+			<name>Residents Only</name>
+		</app>
+		<app>
+			<appid>5485640</appid>
+			<name>Back For Loot Demo</name>
+		</app>
+		<app>
+			<appid>5485650</appid>
+			<name>末日序列：诡域求生</name>
+		</app>
+		<app>
 			<appid>5485880</appid>
 			<name>Too Many Orbs! Demo</name>
+		</app>
+		<app>
+			<appid>5486000</appid>
+			<name>Emberveth</name>
+		</app>
+		<app>
+			<appid>5486260</appid>
+			<name>Your Cat - Special Colors</name>
 		</app>
 		<app>
 			<appid>5486280</appid>
 			<name>Die Deneg Demo</name>
 		</app>
 		<app>
+			<appid>5486310</appid>
+			<name>Forbidden House</name>
+		</app>
+		<app>
 			<appid>5486360</appid>
 			<name>Organize my Shop 3: Christmas Store</name>
 		</app>
 		<app>
+			<appid>5486410</appid>
+			<name>My City</name>
+		</app>
+		<app>
+			<appid>5486510</appid>
+			<name>Eternity Convergence Demo</name>
+		</app>
+		<app>
 			<appid>5486520</appid>
 			<name>Wallet Street</name>
+		</app>
+		<app>
+			<appid>5486690</appid>
+			<name>Val Fortuna</name>
 		</app>
 		<app>
 			<appid>5486820</appid>
@@ -1626039,6 +1628451,14 @@
 			<name>Fog &amp;amp;amp; Iron: Broadside Demo</name>
 		</app>
 		<app>
+			<appid>5487150</appid>
+			<name>AMMO DUMP</name>
+		</app>
+		<app>
+			<appid>5487280</appid>
+			<name>Penguin Colony</name>
+		</app>
+		<app>
 			<appid>5487300</appid>
 			<name>Gloamfall Demo</name>
 		</app>
@@ -1626051,8 +1628471,40 @@
 			<name>Dungeon Man Demo</name>
 		</app>
 		<app>
+			<appid>5487610</appid>
+			<name>Animal Fights Together</name>
+		</app>
+		<app>
+			<appid>5487660</appid>
+			<name>Hack it Tycoon</name>
+		</app>
+		<app>
+			<appid>5487820</appid>
+			<name>World of Stick</name>
+		</app>
+		<app>
+			<appid>5487890</appid>
+			<name>Golf Sim Sim</name>
+		</app>
+		<app>
+			<appid>5488080</appid>
+			<name>Stack Inspector Demo</name>
+		</app>
+		<app>
 			<appid>5488240</appid>
 			<name>Buildot Demo</name>
+		</app>
+		<app>
+			<appid>5488250</appid>
+			<name>Zomking</name>
+		</app>
+		<app>
+			<appid>5488390</appid>
+			<name>Arcane Quest Legends</name>
+		</app>
+		<app>
+			<appid>5488430</appid>
+			<name>Arcane Quest Legends 2</name>
 		</app>
 		<app>
 			<appid>5488500</appid>
@@ -1626063,6 +1628515,10 @@
 			<name>未名渔记 Demo</name>
 		</app>
 		<app>
+			<appid>5488730</appid>
+			<name>Half &amp; Half Chicken</name>
+		</app>
+		<app>
 			<appid>5488800</appid>
 			<name>天空のミーニャ Demo</name>
 		</app>
@@ -1626071,12 +1628527,64 @@
 			<name>Zombies Aren't Real - Supporter Pack</name>
 		</app>
 		<app>
+			<appid>5488970</appid>
+			<name>归墟行 - "黑白相间" 发色</name>
+		</app>
+		<app>
+			<appid>5489270</appid>
+			<name>Wheatstead Demo</name>
+		</app>
+		<app>
+			<appid>5489280</appid>
+			<name>Overload 21</name>
+		</app>
+		<app>
+			<appid>5489300</appid>
+			<name>Generated Hero</name>
+		</app>
+		<app>
+			<appid>5489360</appid>
+			<name>The Eviscerator</name>
+		</app>
+		<app>
+			<appid>5489450</appid>
+			<name>Workshop Valley</name>
+		</app>
+		<app>
 			<appid>5489650</appid>
 			<name>FLUX CIRCUIT Demo</name>
 		</app>
 		<app>
+			<appid>5490010</appid>
+			<name>Grunt</name>
+		</app>
+		<app>
+			<appid>5490060</appid>
+			<name>Tiny Pet Salon</name>
+		</app>
+		<app>
+			<appid>5490410</appid>
+			<name>Just another thief</name>
+		</app>
+		<app>
+			<appid>5490590</appid>
+			<name>Haunted House Director</name>
+		</app>
+		<app>
+			<appid>5490610</appid>
+			<name>Strip Bubbles: My New Town Demo</name>
+		</app>
+		<app>
 			<appid>5490800</appid>
 			<name>Dave: Leg it Demo</name>
+		</app>
+		<app>
+			<appid>5490870</appid>
+			<name>Horochi's Challenge</name>
+		</app>
+		<app>
+			<appid>5491190</appid>
+			<name>1Million Tiles</name>
 		</app>
 		<app>
 			<appid>5491200</appid>
@@ -1626087,12 +1628595,68 @@
 			<name>Breeding Pit Demo</name>
 		</app>
 		<app>
+			<appid>5491850</appid>
+			<name>Inkblot: The Art Restorer</name>
+		</app>
+		<app>
 			<appid>5493040</appid>
 			<name>GRIMBLE Demo</name>
 		</app>
 		<app>
+			<appid>5493570</appid>
+			<name>Age Breaker Demo</name>
+		</app>
+		<app>
 			<appid>5493690</appid>
 			<name>RamiRami Demo</name>
+		</app>
+		<app>
+			<appid>5493870</appid>
+			<name>Math Marsh Demo</name>
+		</app>
+		<app>
+			<appid>5494330</appid>
+			<name>九巡牌 NoveCard Demo</name>
+		</app>
+		<app>
+			<appid>5495010</appid>
+			<name>Lucremachine Demo</name>
+		</app>
+		<app>
+			<appid>5495530</appid>
+			<name>Ukraine Under Fire Demo</name>
+		</app>
+		<app>
+			<appid>5495640</appid>
+			<name>Пока помню Demo</name>
+		</app>
+		<app>
+			<appid>5495960</appid>
+			<name>Grave Ambition Demo</name>
+		</app>
+		<app>
+			<appid>5496410</appid>
+			<name>FRENCH DREAM Demo</name>
+		</app>
+		<app>
+			<appid>5496720</appid>
+			<name>Water TD Demo</name>
+		</app>
+		<app>
+			<appid>5496910</appid>
+			<name>EchoKey Demo</name>
+		</app>
+		<app>
+			<appid>5498090</appid>
+			<name>Life Balance Demo</name>
+		</app>
+		<app>
+			<appid>5498500</appid>
+			<name>Penguin Kart Racer Creator Kit</name>
+		</app>
+		<app>
+			<appid>5498680</appid>
+			<name>Inkblot: The Art Restorer Demo</name>
 		</app>
 	</apps>
 </applist>
