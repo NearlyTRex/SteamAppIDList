@@ -16,6 +16,6 @@ concurrency:
 jobs:
   lint:
     name: Lint
-    uses: NearlyTRex/Workflows/.github/workflows/lint.yml@a1a89468956df5ae1713b94579fec1defc4360a1 # v0.2.16
+    uses: NearlyTRex/Workflows/.github/workflows/lint.yml@4a7f6e3f7dbda5bbe67fd2f25d6f03373ea5f811 # v0.2.25
     permissions:
       contents: read
