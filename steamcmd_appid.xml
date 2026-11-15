@@ -49280,7 +49280,7 @@
 		</app>
 		<app>
 			<appid>264240</appid>
-			<name>CONSORTIUM 2014</name>
+			<name>CONSORTIUM</name>
 		</app>
 		<app>
 			<appid>264260</appid>
@@ -88985,6 +88985,10 @@
 		<app>
 			<appid>383050</appid>
 			<name>Yomi - Expansion Characters</name>
+		</app>
+		<app>
+			<appid>383060</appid>
+			<name>BreakFree Demo</name>
 		</app>
 		<app>
 			<appid>383070</appid>
@@ -132316,7 +132320,7 @@
 		</app>
 		<app>
 			<appid>509648</appid>
-			<name>Rocksmith 2014 - More DLC</name>
+			<name>Rocksmith 2014 Edition - Remastered - Panic! At The Disco - Ballad of Mona Lisa</name>
 		</app>
 		<app>
 			<appid>509649</appid>
@@ -132328,7 +132332,7 @@
 		</app>
 		<app>
 			<appid>509651</appid>
-			<name>Rocksmith 2014 - More DLC</name>
+			<name>Rocksmith 2014 Edition - Remastered - Marcy Playground - Sex and Candy</name>
 		</app>
 		<app>
 			<appid>509652</appid>
@@ -171620,7 +171624,7 @@
 		</app>
 		<app>
 			<appid>596070</appid>
-			<name>Skills Hockey VR</name>
+			<name>Dr Snipes Hockey VR</name>
 		</app>
 		<app>
 			<appid>596080</appid>
@@ -224233,6 +224237,10 @@
 		<app>
 			<appid>716560</appid>
 			<name>Trancelation</name>
+		</app>
+		<app>
+			<appid>716570</appid>
+			<name>Spellburst</name>
 		</app>
 		<app>
 			<appid>716580</appid>
