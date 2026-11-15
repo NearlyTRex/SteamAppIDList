@@ -21,6 +21,28 @@ const EMPTY_BATCHES_TO_STOP = 5;
 // A list this much shorter than the last one means Steam answered badly, not that apps vanished.
 const MIN_FRACTION_OF_PREVIOUS = 0.9;
 
+// Steam now sends some apps in a PICS product info response with no info at all, and steam-user
+// 5.3.0 calls toString() on the missing buffer, throwing from its message handler where no retry
+// can catch it. This hands such apps an empty appinfo block instead, before steam-user reads them;
+// scan() then treats them like any other app without a name.
+const EMPTY_APPINFO = Buffer.from('"appinfo"\n{\n}\n');
+
+function patchEmptyApps(client) {
+  const send = client._send;
+  client._send = function (emsgOrHeader, body, callback) {
+    const emsg = typeof emsgOrHeader === "object" ? emsgOrHeader.msg : emsgOrHeader;
+    if (emsg !== SteamUser.EMsg.ClientPICSProductInfoRequest || !callback) {
+      return send.call(this, emsgOrHeader, body, callback);
+    }
+    return send.call(this, emsgOrHeader, body, function (response, ...rest) {
+      for (const app of response?.apps ?? []) {
+        if (!app.buffer) app.buffer = EMPTY_APPINFO;
+      }
+      return callback.call(this, response, ...rest);
+    });
+  };
+}
+
 function readPrevious() {
   try {
     const apps = JSON.parse(fs.readFileSync(`${OUTPUT}.json`, "utf8")).applist.apps;
@@ -120,6 +142,7 @@ function write(names) {
 async function main() {
   const previous = readPrevious();
   const client = new SteamUser();
+  patchEmptyApps(client);
   client.on("error", (err) => console.warn(`Steam: ${err.message}`));
   const loggedOn = new Promise((resolve) => client.once("loggedOn", resolve));
   client.logOn({ anonymous: true });
