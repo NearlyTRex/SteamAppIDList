@@ -10,16 +10,21 @@
 const fs = require("fs");
 const SteamUser = require("steam-user");
 
-const OUTPUT = "steamcmd_appid";
-const BATCH = 20000;
-const ATTEMPTS = 5;
-const REQUEST_TIMEOUT_MS = 120000;
-// Appids above the newest recently changed one that are scanned anyway, and the run of empty
-// batches past that which ends the scan.
-const MARGIN = 100000;
-const EMPTY_BATCHES_TO_STOP = 5;
-// A list this much shorter than the last one means Steam answered badly, not that apps vanished.
-const MIN_FRACTION_OF_PREVIOUS = 0.9;
+const DEFAULTS = {
+  // Where the lists are written, without the extension
+  output: "steamcmd_appid",
+  batch: 20000,
+  attempts: 5,
+  timeoutMs: 120000,
+  // The wait before a retry, times the attempt that failed
+  retryDelayMs: 5000,
+  // Appids above the newest recently changed one that are scanned anyway, and the run of empty
+  // batches past that which ends the scan.
+  margin: 100000,
+  emptyBatchesToStop: 5,
+  // A list this much shorter than the last one means Steam answered badly, not that apps vanished.
+  minFractionOfPrevious: 0.9,
+};
 
 // Steam now sends some apps in a PICS product info response with no info at all, and steam-user
 // 5.3.0 calls toString() on the missing buffer, throwing from its message handler where no retry
@@ -43,53 +48,56 @@ function patchEmptyApps(client) {
   };
 }
 
-function readPrevious() {
+function readPrevious(output) {
   try {
-    const apps = JSON.parse(fs.readFileSync(`${OUTPUT}.json`, "utf8")).applist.apps;
+    const apps = JSON.parse(fs.readFileSync(`${output}.json`, "utf8")).applist.apps;
     return new Map(apps.map((app) => [app.appid, app.name]));
   } catch {
     return new Map();
   }
 }
 
-function withTimeout(promise, what) {
+function withTimeout(promise, what, timeoutMs) {
   let timer;
   const timeout = new Promise((_, reject) => {
-    timer = setTimeout(() => reject(new Error(`${what} timed out`)), REQUEST_TIMEOUT_MS);
+    timer = setTimeout(() => reject(new Error(`${what} timed out`)), timeoutMs);
   });
   return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
 }
 
-async function retry(what, fn) {
+async function retry(what, fn, options) {
   for (let attempt = 1; ; attempt++) {
     try {
-      return await withTimeout(fn(), what);
+      return await withTimeout(fn(), what, options.timeoutMs);
     } catch (err) {
-      if (attempt === ATTEMPTS) throw new Error(`${what} failed ${ATTEMPTS} times: ${err.message}`);
+      if (attempt === options.attempts) {
+        throw new Error(`${what} failed ${options.attempts} times: ${err.message}`);
+      }
       console.warn(`${what} failed (${err.message}), retrying`);
-      await new Promise((resolve) => setTimeout(resolve, 5000 * attempt));
+      await new Promise((resolve) => setTimeout(resolve, options.retryDelayMs * attempt));
     }
   }
 }
 
-async function scan(client, previous) {
-  const current = await retry("getProductChanges", () => client.getProductChanges(0));
+async function scan(client, previous, options) {
+  const { batch } = options;
+  const current = await retry("getProductChanges", () => client.getProductChanges(0), options);
   const recent = await retry("getProductChanges", () =>
-    client.getProductChanges(Math.max(0, current.currentChangeNumber - 3000)));
+    client.getProductChanges(Math.max(0, current.currentChangeNumber - 3000)), options);
   let newest = 0;
   for (const appid of [...recent.appChanges.map((change) => change.appid), ...previous.keys()]) {
     newest = Math.max(newest, appid);
   }
-  const end = newest + MARGIN;
+  const end = newest + options.margin;
   console.log(`Scanning appids from 0 past ${end}`);
 
   const names = new Map();
   let carried = 0;
   let emptyRun = 0;
-  for (let start = 0; start < end || emptyRun < EMPTY_BATCHES_TO_STOP; start += BATCH) {
-    const ids = Array.from({ length: BATCH }, (_, i) => start + i);
-    const info = await retry(`appids ${start}-${start + BATCH - 1}`, () =>
-      client.getProductInfo(ids, [], true));
+  for (let start = 0; start < end || emptyRun < options.emptyBatchesToStop; start += batch) {
+    const ids = Array.from({ length: batch }, (_, i) => start + i);
+    const info = await retry(`appids ${start}-${start + batch - 1}`, () =>
+      client.getProductInfo(ids, [], true), options);
     const found = Object.entries(info.apps);
     emptyRun = found.length ? 0 : emptyRun + 1;
     for (const [id, app] of found) {
@@ -107,7 +115,7 @@ async function scan(client, previous) {
       delete app.appinfo;
       delete info.apps[id];
     }
-    if ((start / BATCH) % 25 === 0) console.log(`  at ${start}: ${names.size} apps`);
+    if ((start / batch) % 25 === 0) console.log(`  at ${start}: ${names.size} apps`);
   }
   console.log(`Found ${names.size} apps, ${carried} of them named from the previous list`);
   return names;
@@ -116,53 +124,60 @@ async function scan(client, previous) {
 function xmlEscape(text) {
   // Control characters aren't allowed in XML 1.0, even escaped.
   return text
+    // eslint-disable-next-line no-control-regex -- matching them is the point
     .replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f￾￿]/g, "")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
 }
 
-function write(names) {
+function write(names, output) {
   const apps = [...names].sort((a, b) => a[0] - b[0]).map(([appid, name]) => ({ appid, name }));
 
-  console.log(`Creating ${OUTPUT}.json`);
-  fs.writeFileSync(`${OUTPUT}.json`, `${JSON.stringify({ applist: { apps } }, null, 2)}\n`);
+  console.log(`Creating ${output}.json`);
+  fs.writeFileSync(`${output}.json`, `${JSON.stringify({ applist: { apps } }, null, 2)}\n`);
 
-  console.log(`Creating ${OUTPUT}.csv`);
+  console.log(`Creating ${output}.csv`);
   const csv = apps.map(({ appid, name }) => `${appid},"${name.replace(/"/g, '""')}"\n`);
-  fs.writeFileSync(`${OUTPUT}.csv`, csv.join(""));
+  fs.writeFileSync(`${output}.csv`, csv.join(""));
 
-  console.log(`Creating ${OUTPUT}.xml`);
+  console.log(`Creating ${output}.xml`);
   const xml = apps.map(({ appid, name }) =>
     `\t\t<app>\n\t\t\t<appid>${appid}</appid>\n\t\t\t<name>${xmlEscape(name)}</name>\n\t\t</app>\n`);
-  fs.writeFileSync(`${OUTPUT}.xml`,
+  fs.writeFileSync(`${output}.xml`,
     `<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE applist>\n<applist>\n\t<apps>\n${xml.join("")}\t</apps>\n</applist>\n`);
 }
 
-async function main() {
-  const previous = readPrevious();
-  const client = new SteamUser();
+// Builds the lists. overrides replaces any of DEFAULTS, and client a logged-off SteamUser.
+async function main(overrides = {}, client = new SteamUser()) {
+  const options = { ...DEFAULTS, ...overrides };
+  const previous = readPrevious(options.output);
   patchEmptyApps(client);
   client.on("error", (err) => console.warn(`Steam: ${err.message}`));
   const loggedOn = new Promise((resolve) => client.once("loggedOn", resolve));
   client.logOn({ anonymous: true });
-  await withTimeout(loggedOn, "Anonymous logon");
+  await withTimeout(loggedOn, "Anonymous logon", options.timeoutMs);
 
   try {
-    const names = await scan(client, previous);
-    if (names.size < previous.size * MIN_FRACTION_OF_PREVIOUS) {
+    const names = await scan(client, previous, options);
+    if (names.size < previous.size * options.minFractionOfPrevious) {
       throw new Error(`Only ${names.size} apps found, against ${previous.size} last time; keeping the old list`);
     }
-    write(names);
+    write(names, options.output);
   } finally {
     client.logOff();
   }
 }
 
-main().then(
-  () => process.exit(0),
-  (err) => {
-    console.error(err.message);
-    process.exit(1);
-  },
-);
+module.exports = { DEFAULTS, patchEmptyApps, readPrevious, withTimeout, retry, scan, xmlEscape, write, main };
+
+// steam-user keeps the connection's timers alive after logOff, so the run ends with an exit.
+if (require.main === module) {
+  main().then(
+    () => process.exit(0),
+    (err) => {
+      console.error(err.message);
+      process.exit(1);
+    },
+  );
+}

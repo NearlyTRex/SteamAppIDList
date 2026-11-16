@@ -17,5 +17,8 @@
     "steam-appticket": {
       "protobufjs": "7.6.6"
     }
+  },
+  "devDependencies": {
+    "eslint": "10.14.0"
   }
 }

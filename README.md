@@ -42,3 +42,19 @@ git clone https://github.com/NearlyTRex/SteamAppIDList.git
 cd SteamAppIDList
 ./steamcmd_appid.sh
 ```
+
+## Tests
+
+The tests run the script against a fake Steam client, so they never log in. They are
+`node --test` files that [pytest-testrex](https://github.com/NearlyTRex/TestRex) runs under
+JavaScript coverage, with eslint over the script and the tests:
+
+```bash
+npm ci
+python3 -m venv .venv
+.venv/bin/pip install --require-hashes --no-deps -r requirements-dev.txt
+PATH="$PWD/node_modules/.bin:$PATH" .venv/bin/python -m pytest -q \
+  --js-cov-source=steamcmd_appid.js --js-cov-branch --js-cov-fail-under=100
+```
+
+`node --test Tests/` runs only the JavaScript tests.

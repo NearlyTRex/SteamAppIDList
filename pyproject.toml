@@ -1,0 +1,7 @@
+# The script is Node; Python only runs its tests. pytest-testrex runs Tests/**/*.test.js with
+# node --test and its meta suite runs eslint, so there is no Python package to install.
+[tool.pytest.ini_options]
+testpaths = ["Tests"]
+
+[tool.testrex]
+js_sources = ["steamcmd_appid.js"]

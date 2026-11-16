@@ -5,5 +5,5 @@
 
 set -euo pipefail
 cd "$(dirname "$0")"
-npm ci --silent
+npm ci --silent --omit=dev
 node steamcmd_appid.js
