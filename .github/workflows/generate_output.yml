@@ -15,13 +15,13 @@ concurrency:
 jobs:
   update:
     name: Update
-    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@4a7f6e3f7dbda5bbe67fd2f25d6f03373ea5f811 # v0.2.25
+    uses: NearlyTRex/Workflows/.github/workflows/scheduled-update.yml@a312ddd3b1f067963e825ffbab2cae8f82f6dcb1 # v0.2.29
     permissions:
       contents: write
       pull-requests: write
     with:
       node-version: "24"
-      command: npm ci && node steamcmd_appid.js
+      command: npm ci --omit=dev && node steamcmd_appid.js
       paths: steamcmd_appid.json steamcmd_appid.csv steamcmd_appid.xml
       commit-message: "GitHub Actions build: {date}"
       assignees: NearlyTRex
