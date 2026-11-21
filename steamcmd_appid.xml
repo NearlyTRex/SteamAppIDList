@@ -70780,7 +70780,7 @@
 		</app>
 		<app>
 			<appid>335290</appid>
-			<name>Farming Simulator 15: ITRunner</name>
+			<name>Farming Simulator 15: ITRunner Pack</name>
 		</app>
 		<app>
 			<appid>335300</appid>
@@ -74952,11 +74952,11 @@
 		</app>
 		<app>
 			<appid>345740</appid>
-			<name>Farming Simulator 15: JCB</name>
+			<name>Farming Simulator 15: JCB Pack</name>
 		</app>
 		<app>
 			<appid>345741</appid>
-			<name>Farming Simulator 15: HOLMER</name>
+			<name>Farming Simulator 15: HOLMER Pack</name>
 		</app>
 		<app>
 			<appid>345750</appid>
@@ -86112,7 +86112,7 @@
 		</app>
 		<app>
 			<appid>374851</appid>
-			<name>Farming Simulator 15: Official Expansion (GOLD)</name>
+			<name>Farming Simulator 15: Official Expansion (Gold)</name>
 		</app>
 		<app>
 			<appid>374871</appid>
@@ -120309,6 +120309,10 @@
 		<app>
 			<appid>467570</appid>
 			<name>TITANS: Dawn of Tribes</name>
+		</app>
+		<app>
+			<appid>467580</appid>
+			<name>Mop Royale</name>
 		</app>
 		<app>
 			<appid>467600</appid>
@@ -190748,7 +190752,7 @@
 		</app>
 		<app>
 			<appid>635290</appid>
-			<name>Farming Simulator 17: Ropa Pack</name>
+			<name>Farming Simulator 17: ROPA Pack</name>
 		</app>
 		<app>
 			<appid>635300</appid>
