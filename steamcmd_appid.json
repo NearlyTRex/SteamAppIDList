@@ -53419,7 +53419,7 @@
       },
       {
         "appid": 280620,
-        "name": "Fiesta Online"
+        "name": "Fiesta Online (retired version)"
       },
       {
         "appid": 280640,
@@ -59307,7 +59307,7 @@
       },
       {
         "appid": 300970,
-        "name": "Fiesta Online NA"
+        "name": "Fiesta Online"
       },
       {
         "appid": 300980,
@@ -106623,7 +106623,7 @@
       },
       {
         "appid": 429330,
-        "name": "Stikbold!"
+        "name": "Stikbold! A Dodgeball Adventure DELUXE"
       },
       {
         "appid": 429350,
@@ -224768,6 +224768,10 @@
       {
         "appid": 717870,
         "name": "An Adventurer's Gallantry"
+      },
+      {
+        "appid": 717880,
+        "name": "Geiger Cleanup"
       },
       {
         "appid": 717900,
