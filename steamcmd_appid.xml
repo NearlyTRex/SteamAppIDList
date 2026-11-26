@@ -53420,7 +53420,7 @@
 		</app>
 		<app>
 			<appid>280620</appid>
-			<name>Fiesta Online</name>
+			<name>Fiesta Online (retired version)</name>
 		</app>
 		<app>
 			<appid>280640</appid>
@@ -59308,7 +59308,7 @@
 		</app>
 		<app>
 			<appid>300970</appid>
-			<name>Fiesta Online NA</name>
+			<name>Fiesta Online</name>
 		</app>
 		<app>
 			<appid>300980</appid>
@@ -106624,7 +106624,7 @@
 		</app>
 		<app>
 			<appid>429330</appid>
-			<name>Stikbold!</name>
+			<name>Stikbold! A Dodgeball Adventure DELUXE</name>
 		</app>
 		<app>
 			<appid>429350</appid>
@@ -224769,6 +224769,10 @@
 		<app>
 			<appid>717870</appid>
 			<name>An Adventurer's Gallantry</name>
+		</app>
+		<app>
+			<appid>717880</appid>
+			<name>Geiger Cleanup</name>
 		</app>
 		<app>
 			<appid>717900</appid>
